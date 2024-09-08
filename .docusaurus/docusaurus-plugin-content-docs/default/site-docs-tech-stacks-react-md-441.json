@@ -1,0 +1,27 @@
+{
+  "id": "tech_stacks/React",
+  "title": "React",
+  "description": "react",
+  "source": "@site/docs/tech_stacks/React.md",
+  "sourceDirName": "tech_stacks",
+  "slug": "/tech_stacks/React",
+  "permalink": "/docs/tech_stacks/React",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tech_stacks/React.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tech Stacks",
+    "permalink": "/docs/category/tech-stacks"
+  },
+  "next": {
+    "title": "Next.js",
+    "permalink": "/docs/tech_stacks/Nextjs"
+  }
+}

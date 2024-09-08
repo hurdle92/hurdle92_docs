@@ -1,0 +1,62 @@
+{
+  "permalink": "/blog/welcome",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2024-08-26-welcome/index.md",
+  "source": "@site/blog/2024-08-26-welcome/index.md",
+  "title": "Welcome",
+  "description": "나중에 에이닷 기술 블로그 ?",
+  "date": "2024-08-26T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "ADOT",
+      "permalink": "/blog/tags/adot"
+    },
+    {
+      "inline": true,
+      "label": "DEV",
+      "permalink": "/blog/tags/dev"
+    },
+    {
+      "inline": true,
+      "label": "BLOG",
+      "permalink": "/blog/tags/blog"
+    }
+  ],
+  "readingTime": 0.2,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Sébastien Lorber",
+      "title": "Docusaurus maintainer",
+      "url": "https://sebastienlorber.com",
+      "page": {
+        "permalink": "/blog/authors/all-sebastien-lorber-articles"
+      },
+      "socials": {
+        "x": "https://x.com/sebastienlorber",
+        "linkedin": "https://www.linkedin.com/in/sebastienlorber/",
+        "github": "https://github.com/slorber",
+        "newsletter": "https://thisweekinreact.com"
+      },
+      "imageURL": "https://d3157wx5zs7nsu.cloudfront.net/adot_on/renewal/images/home/banners/mobile.png",
+      "key": "slorber"
+    }
+  ],
+  "frontMatter": {
+    "slug": "welcome",
+    "title": "Welcome",
+    "authors": [
+      "slorber"
+    ],
+    "tags": [
+      "ADOT",
+      "DEV",
+      "BLOG"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "MDX Blog Post",
+    "permalink": "/blog/mdx-blog-post"
+  }
+}

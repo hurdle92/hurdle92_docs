@@ -1,0 +1,83 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "Introduction",
+          "docs": [
+            {
+              "id": "Deploy",
+              "path": "/docs/Deploy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "design_system",
+              "path": "/docs/design_system",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "folder_structure",
+              "path": "/docs/folder_structure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Introduction",
+              "path": "/docs/Introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tech_stacks/Nextjs",
+              "path": "/docs/tech_stacks/Nextjs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tech_stacks/React",
+              "path": "/docs/tech_stacks/React",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tech_stacks/react_hook_form",
+              "path": "/docs/tech_stacks/react_hook_form",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tech_stacks/react_query",
+              "path": "/docs/tech_stacks/react_query",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tech_stacks/Turborepo",
+              "path": "/docs/tech_stacks/Turborepo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tech_stacks/zustand",
+              "path": "/docs/tech_stacks/zustand",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tech-stacks",
+              "path": "/docs/category/tech-stacks",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/Introduction",
+                "label": "Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
