@@ -13,57 +13,62 @@
             {
               "id": "Deploy",
               "path": "/docs/Deploy",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "aboutSidebar"
             },
             {
               "id": "design_system",
               "path": "/docs/design_system",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "aboutSidebar"
             },
             {
               "id": "folder_structure",
               "path": "/docs/folder_structure",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "aboutSidebar"
             },
             {
               "id": "Introduction",
               "path": "/docs/Introduction",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "aboutSidebar"
             },
             {
               "id": "tech_stacks/Nextjs",
               "path": "/docs/tech_stacks/Nextjs",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "aboutSidebar"
             },
             {
               "id": "tech_stacks/React",
               "path": "/docs/tech_stacks/React",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "aboutSidebar"
             },
             {
               "id": "tech_stacks/react_hook_form",
               "path": "/docs/tech_stacks/react_hook_form",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "aboutSidebar"
             },
             {
               "id": "tech_stacks/react_query",
               "path": "/docs/tech_stacks/react_query",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "aboutSidebar"
             },
             {
               "id": "tech_stacks/Turborepo",
               "path": "/docs/tech_stacks/Turborepo",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "aboutSidebar"
             },
             {
               "id": "tech_stacks/zustand",
               "path": "/docs/tech_stacks/zustand",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "aboutSidebar"
             },
             {
               "id": "/category/tech-stacks",
               "path": "/docs/category/tech-stacks",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tech-stacks-1",
+              "path": "/docs/category/tech-stacks-1",
+              "sidebar": "aboutSidebar"
             }
           ],
           "draftIds": [],
@@ -72,6 +77,52 @@
               "link": {
                 "path": "/docs/Introduction",
                 "label": "Introduction"
+              }
+            },
+            "aboutSidebar": {
+              "link": {
+                "path": "/docs/Introduction",
+                "label": "Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "about": {
+      "path": "/about",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/about",
+          "mainDocId": "2024-08-01-mdx-blog-post",
+          "docs": [
+            {
+              "id": "2024-08-01-mdx-blog-post",
+              "path": "/about/mdx-blog-post",
+              "sidebar": "aboutSidebar"
+            },
+            {
+              "id": "2024-08-26-welcome/index",
+              "path": "/about/2024-08-26-welcome/welcome",
+              "sidebar": "aboutSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/about/mdx-blog-post",
+                "label": "2024-08-01-mdx-blog-post"
+              }
+            },
+            "aboutSidebar": {
+              "link": {
+                "path": "/about/mdx-blog-post",
+                "label": "2024-08-01-mdx-blog-post"
               }
             }
           }

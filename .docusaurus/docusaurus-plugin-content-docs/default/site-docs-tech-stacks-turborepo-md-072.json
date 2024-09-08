@@ -8,14 +8,13 @@
   "permalink": "/docs/tech_stacks/Turborepo",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tech_stacks/Turborepo.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
   "frontMatter": {
     "sidebar_position": 3
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "aboutSidebar",
   "previous": {
     "title": "Next.js",
     "permalink": "/docs/tech_stacks/Nextjs"

@@ -8,14 +8,13 @@
   "permalink": "/docs/Deploy",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Deploy.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 5,
   "frontMatter": {
     "sidebar_position": 5
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "aboutSidebar",
   "previous": {
     "title": "ADOT Design System",
     "permalink": "/docs/design_system"

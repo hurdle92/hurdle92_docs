@@ -35,10 +35,6 @@ const config: Config = {
       {
         docs: {
           sidebarPath: "./sidebars.ts",
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
         blog: {
           showReadingTime: true,
@@ -63,21 +59,21 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
       logo: {
-        alt: "My Site Logo",
-        src: "http://d3157wx5zs7nsu.cloudfront.net/adot_on/renewal/home/logos/logo.png",
+        alt: "logo",
+        src: "img/favicon.ico",
       },
+      title: "Sihyung.log",
       items: [
         {
           type: "docSidebar",
-          sidebarId: "tutorialSidebar",
+          sidebarId: "aboutSidebar",
           position: "left",
-          label: "Docs",
+          label: "About",
         },
-        { to: "/blog", label: "Blog", position: "left" },
+        { to: "/blog", label: "Project", position: "left" },
         {
           href: "https://github.com/hurdle92",
           label: "GitHub",
@@ -134,8 +130,20 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
-  } satisfies Preset.ThemeConfig,
-  plugins: [tailwindPlugin],
+  },
+  plugins: [
+    tailwindPlugin,
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "about",
+        path: "about",
+        routeBasePath: "about",
+        sidebarPath: "./sidebars.ts",
+        // ... other options
+      },
+    ],
+  ],
 };
 
 export default config;

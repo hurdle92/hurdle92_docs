@@ -8,14 +8,13 @@
   "permalink": "/docs/tech_stacks/zustand",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tech_stacks/zustand.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 5,
   "frontMatter": {
     "sidebar_position": 5
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "aboutSidebar",
   "previous": {
     "title": "React-Query",
     "permalink": "/docs/tech_stacks/react_query"

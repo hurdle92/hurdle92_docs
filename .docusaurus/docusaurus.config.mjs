@@ -25,8 +25,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "./sidebars.ts",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "sidebarPath": "./sidebars.ts"
         },
         "blog": {
           "showReadingTime": true,
@@ -52,19 +51,20 @@ export default {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
       "logo": {
-        "alt": "My Site Logo",
-        "src": "http://d3157wx5zs7nsu.cloudfront.net/adot_on/renewal/home/logos/logo.png"
+        "alt": "logo",
+        "src": "img/favicon.ico"
       },
+      "title": "Sihyung.log",
       "items": [
         {
           "type": "docSidebar",
-          "sidebarId": "tutorialSidebar",
+          "sidebarId": "aboutSidebar",
           "position": "left",
-          "label": "Docs"
+          "label": "About"
         },
         {
           "to": "/blog",
-          "label": "Blog",
+          "label": "Project",
           "position": "left"
         },
         {
@@ -348,7 +348,16 @@ export default {
     }
   },
   "plugins": [
-    null
+    null,
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        "id": "about",
+        "path": "about",
+        "routeBasePath": "about",
+        "sidebarPath": "./sidebars.ts"
+      }
+    ]
   ],
   "baseUrlIssueBanner": true,
   "future": {

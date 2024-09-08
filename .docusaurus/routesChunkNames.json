@@ -196,60 +196,105 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-27e": {
+  "/about-f4a": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---about-041-8c8"
+    }
+  },
+  "/about-62e": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---about-825-789"
+  },
+  "/about/tags-29c": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---about-tagsb-84-644"
+  },
+  "/about/tags/adot-c3e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---about-tags-adotabb-df3"
+  },
+  "/about/tags/blog-f1f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---about-tags-blog-37-c-3c0"
+  },
+  "/about/tags/dev-e66": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---about-tags-dev-311-de6"
+  },
+  "/about/tags/docusaurus-1b2": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---about-tags-docusaurus-20-f-be6"
+  },
+  "/about-331": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/about/2024-08-26-welcome/welcome-cc4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-2024-08-26-welcome-welcome-2-a-1-2c2"
+  },
+  "/about/mdx-blog-post-fcb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-mdx-blog-post-0-b-8-9c2"
+  },
+  "/docs-502": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-5fa": {
+  "/docs-f0d": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-2e4": {
+  "/docs-e52": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/tech-stacks-27d": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-tech-stacks-7-b-9-4ef"
   },
-  "/docs/Deploy-4a4": {
+  "/docs/category/tech-stacks-1-4d7": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-tech-stacks-1-e-08-fc1"
+  },
+  "/docs/Deploy-269": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-deploy-703-d49"
   },
-  "/docs/design_system-9b2": {
+  "/docs/design_system-307": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-design-systemfac-5a8"
   },
-  "/docs/folder_structure-091": {
+  "/docs/folder_structure-15d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-folder-structure-3-b-7-882"
   },
-  "/docs/Introduction-7bf": {
+  "/docs/Introduction-303": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-introductione-0-a-085"
   },
-  "/docs/tech_stacks/Nextjs-dbd": {
+  "/docs/tech_stacks/Nextjs-625": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tech-stacks-nextjs-5-c-9-78a"
   },
-  "/docs/tech_stacks/React-60f": {
+  "/docs/tech_stacks/React-26f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tech-stacks-react-441-b04"
   },
-  "/docs/tech_stacks/react_hook_form-725": {
+  "/docs/tech_stacks/react_hook_form-ca4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tech-stacks-react-hook-form-8-ed-455"
   },
-  "/docs/tech_stacks/react_query-8b8": {
+  "/docs/tech_stacks/react_query-913": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tech-stacks-react-queryd-37-658"
   },
-  "/docs/tech_stacks/Turborepo-e43": {
+  "/docs/tech_stacks/Turborepo-280": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tech-stacks-turborepo-072-089"
   },
-  "/docs/tech_stacks/zustand-df8": {
+  "/docs/tech_stacks/zustand-ab5": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tech-stacks-zustand-1-aa-003"
   },

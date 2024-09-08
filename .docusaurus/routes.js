@@ -103,16 +103,71 @@ export default [
     exact: true
   },
   {
+    path: '/about',
+    component: ComponentCreator('/about', 'f4a'),
+    routes: [
+      {
+        path: '/about',
+        component: ComponentCreator('/about', '62e'),
+        routes: [
+          {
+            path: '/about/tags',
+            component: ComponentCreator('/about/tags', '29c'),
+            exact: true
+          },
+          {
+            path: '/about/tags/adot',
+            component: ComponentCreator('/about/tags/adot', 'c3e'),
+            exact: true
+          },
+          {
+            path: '/about/tags/blog',
+            component: ComponentCreator('/about/tags/blog', 'f1f'),
+            exact: true
+          },
+          {
+            path: '/about/tags/dev',
+            component: ComponentCreator('/about/tags/dev', 'e66'),
+            exact: true
+          },
+          {
+            path: '/about/tags/docusaurus',
+            component: ComponentCreator('/about/tags/docusaurus', '1b2'),
+            exact: true
+          },
+          {
+            path: '/about',
+            component: ComponentCreator('/about', '331'),
+            routes: [
+              {
+                path: '/about/2024-08-26-welcome/welcome',
+                component: ComponentCreator('/about/2024-08-26-welcome/welcome', 'cc4'),
+                exact: true,
+                sidebar: "aboutSidebar"
+              },
+              {
+                path: '/about/mdx-blog-post',
+                component: ComponentCreator('/about/mdx-blog-post', 'fcb'),
+                exact: true,
+                sidebar: "aboutSidebar"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     path: '/docs',
-    component: ComponentCreator('/docs', '27e'),
+    component: ComponentCreator('/docs', '502'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '5fa'),
+        component: ComponentCreator('/docs', 'f0d'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '2e4'),
+            component: ComponentCreator('/docs', 'e52'),
             routes: [
               {
                 path: '/docs/category/tech-stacks',
@@ -121,64 +176,70 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Deploy',
-                component: ComponentCreator('/docs/Deploy', '4a4'),
+                path: '/docs/category/tech-stacks-1',
+                component: ComponentCreator('/docs/category/tech-stacks-1', '4d7'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "aboutSidebar"
+              },
+              {
+                path: '/docs/Deploy',
+                component: ComponentCreator('/docs/Deploy', '269'),
+                exact: true,
+                sidebar: "aboutSidebar"
               },
               {
                 path: '/docs/design_system',
-                component: ComponentCreator('/docs/design_system', '9b2'),
+                component: ComponentCreator('/docs/design_system', '307'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "aboutSidebar"
               },
               {
                 path: '/docs/folder_structure',
-                component: ComponentCreator('/docs/folder_structure', '091'),
+                component: ComponentCreator('/docs/folder_structure', '15d'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "aboutSidebar"
               },
               {
                 path: '/docs/Introduction',
-                component: ComponentCreator('/docs/Introduction', '7bf'),
+                component: ComponentCreator('/docs/Introduction', '303'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "aboutSidebar"
               },
               {
                 path: '/docs/tech_stacks/Nextjs',
-                component: ComponentCreator('/docs/tech_stacks/Nextjs', 'dbd'),
+                component: ComponentCreator('/docs/tech_stacks/Nextjs', '625'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "aboutSidebar"
               },
               {
                 path: '/docs/tech_stacks/React',
-                component: ComponentCreator('/docs/tech_stacks/React', '60f'),
+                component: ComponentCreator('/docs/tech_stacks/React', '26f'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "aboutSidebar"
               },
               {
                 path: '/docs/tech_stacks/react_hook_form',
-                component: ComponentCreator('/docs/tech_stacks/react_hook_form', '725'),
+                component: ComponentCreator('/docs/tech_stacks/react_hook_form', 'ca4'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "aboutSidebar"
               },
               {
                 path: '/docs/tech_stacks/react_query',
-                component: ComponentCreator('/docs/tech_stacks/react_query', '8b8'),
+                component: ComponentCreator('/docs/tech_stacks/react_query', '913'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "aboutSidebar"
               },
               {
                 path: '/docs/tech_stacks/Turborepo',
-                component: ComponentCreator('/docs/tech_stacks/Turborepo', 'e43'),
+                component: ComponentCreator('/docs/tech_stacks/Turborepo', '280'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "aboutSidebar"
               },
               {
                 path: '/docs/tech_stacks/zustand',
-                component: ComponentCreator('/docs/tech_stacks/zustand', 'df8'),
+                component: ComponentCreator('/docs/tech_stacks/zustand', 'ab5'),
                 exact: true,
-                sidebar: "tutorialSidebar"
+                sidebar: "aboutSidebar"
               }
             ]
           }
