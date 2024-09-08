@@ -196,13 +196,58 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/about-f4a": {
+  "/about-f75": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/about-df7": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---about-3-aa-965"
+  },
+  "/about/tags-438": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---about-tags-5-f-0-853"
+  },
+  "/about/tags/adot-257": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---about-tags-adot-269-cdb"
+  },
+  "/about/tags/blog-643": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---about-tags-blog-003-694"
+  },
+  "/about/tags/dev-9c6": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---about-tags-devb-51-4e0"
+  },
+  "/about/tags/docusaurus-b07": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---about-tags-docusaurus-80-f-d2e"
+  },
+  "/about-64c": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/about/2024-08-26-welcome/welcome-cc4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-2024-08-26-welcome-welcome-2-a-1-2c2"
+  },
+  "/about/Introduction-041": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-introduction-9-f-5-1f1"
+  },
+  "/about/mdx-blog-post-fcb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---about-mdx-blog-post-0-b-8-9c2"
+  },
+  "/about-779": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-041-8c8"
     }
   },
-  "/about-62e": {
+  "/about-e33": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---about-825-789"
   },
@@ -225,78 +270,6 @@
   "/about/tags/docusaurus-1b2": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
     "__props": "__props---about-tags-docusaurus-20-f-be6"
-  },
-  "/about-331": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
-  },
-  "/about/2024-08-26-welcome/welcome-cc4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-2024-08-26-welcome-welcome-2-a-1-2c2"
-  },
-  "/about/mdx-blog-post-fcb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-mdx-blog-post-0-b-8-9c2"
-  },
-  "/docs-502": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
-    "__context": {
-      "plugin": "plugin---docsaba-d7c"
-    }
-  },
-  "/docs-f0d": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
-  },
-  "/docs-e52": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
-  },
-  "/docs/category/tech-stacks-27d": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-tech-stacks-7-b-9-4ef"
-  },
-  "/docs/category/tech-stacks-1-4d7": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-tech-stacks-1-e-08-fc1"
-  },
-  "/docs/Deploy-269": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-deploy-703-d49"
-  },
-  "/docs/design_system-307": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-design-systemfac-5a8"
-  },
-  "/docs/folder_structure-15d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-folder-structure-3-b-7-882"
-  },
-  "/docs/Introduction-303": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-introductione-0-a-085"
-  },
-  "/docs/tech_stacks/Nextjs-625": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tech-stacks-nextjs-5-c-9-78a"
-  },
-  "/docs/tech_stacks/React-26f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tech-stacks-react-441-b04"
-  },
-  "/docs/tech_stacks/react_hook_form-ca4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tech-stacks-react-hook-form-8-ed-455"
-  },
-  "/docs/tech_stacks/react_query-913": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tech-stacks-react-queryd-37-658"
-  },
-  "/docs/tech_stacks/Turborepo-280": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tech-stacks-turborepo-072-089"
-  },
-  "/docs/tech_stacks/zustand-ab5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tech-stacks-zustand-1-aa-003"
   },
   "/-e5f": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",

@@ -1,0 +1,20 @@
+{
+  "permalink": "/blog/Introduction",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/Introduction.md",
+  "source": "@site/blog/Introduction.md",
+  "title": "Introduction",
+  "description": "ADOT ON React project 문서입니다.",
+  "date": "2024-09-08T09:06:31.725Z",
+  "tags": [],
+  "readingTime": 0.68,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Welcome",
+    "permalink": "/blog/welcome"
+  }
+}

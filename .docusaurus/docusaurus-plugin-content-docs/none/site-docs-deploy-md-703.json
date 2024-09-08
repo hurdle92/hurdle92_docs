@@ -1,0 +1,22 @@
+{
+  "id": "Deploy",
+  "title": "Deploy",
+  "description": "ADOT ON Next.js 프로젝트를 정적 배포합니다.",
+  "source": "@site/docs/Deploy.md",
+  "sourceDirName": ".",
+  "slug": "/Deploy",
+  "permalink": "/docs/Deploy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "aboutSidebar",
+  "previous": {
+    "title": "ADOT Design System",
+    "permalink": "/docs/design_system"
+  }
+}

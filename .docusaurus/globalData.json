@@ -1,73 +1,28 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/about",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/about",
           "mainDocId": "Introduction",
           "docs": [
             {
-              "id": "Deploy",
-              "path": "/docs/Deploy",
+              "id": "2024-08-01-mdx-blog-post",
+              "path": "/about/mdx-blog-post",
               "sidebar": "aboutSidebar"
             },
             {
-              "id": "design_system",
-              "path": "/docs/design_system",
-              "sidebar": "aboutSidebar"
-            },
-            {
-              "id": "folder_structure",
-              "path": "/docs/folder_structure",
+              "id": "2024-08-26-welcome/index",
+              "path": "/about/2024-08-26-welcome/welcome",
               "sidebar": "aboutSidebar"
             },
             {
               "id": "Introduction",
-              "path": "/docs/Introduction",
-              "sidebar": "aboutSidebar"
-            },
-            {
-              "id": "tech_stacks/Nextjs",
-              "path": "/docs/tech_stacks/Nextjs",
-              "sidebar": "aboutSidebar"
-            },
-            {
-              "id": "tech_stacks/React",
-              "path": "/docs/tech_stacks/React",
-              "sidebar": "aboutSidebar"
-            },
-            {
-              "id": "tech_stacks/react_hook_form",
-              "path": "/docs/tech_stacks/react_hook_form",
-              "sidebar": "aboutSidebar"
-            },
-            {
-              "id": "tech_stacks/react_query",
-              "path": "/docs/tech_stacks/react_query",
-              "sidebar": "aboutSidebar"
-            },
-            {
-              "id": "tech_stacks/Turborepo",
-              "path": "/docs/tech_stacks/Turborepo",
-              "sidebar": "aboutSidebar"
-            },
-            {
-              "id": "tech_stacks/zustand",
-              "path": "/docs/tech_stacks/zustand",
-              "sidebar": "aboutSidebar"
-            },
-            {
-              "id": "/category/tech-stacks",
-              "path": "/docs/category/tech-stacks",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/tech-stacks-1",
-              "path": "/docs/category/tech-stacks-1",
+              "path": "/about/Introduction",
               "sidebar": "aboutSidebar"
             }
           ],
@@ -75,13 +30,13 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/Introduction",
+                "path": "/about/Introduction",
                 "label": "Introduction"
               }
             },
             "aboutSidebar": {
               "link": {
-                "path": "/docs/Introduction",
+                "path": "/about/Introduction",
                 "label": "Introduction"
               }
             }
@@ -98,7 +53,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/about",
-          "mainDocId": "2024-08-01-mdx-blog-post",
+          "mainDocId": "Introduction",
           "docs": [
             {
               "id": "2024-08-01-mdx-blog-post",
@@ -109,20 +64,25 @@
               "id": "2024-08-26-welcome/index",
               "path": "/about/2024-08-26-welcome/welcome",
               "sidebar": "aboutSidebar"
+            },
+            {
+              "id": "Introduction",
+              "path": "/about/Introduction",
+              "sidebar": "aboutSidebar"
             }
           ],
           "draftIds": [],
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/about/mdx-blog-post",
-                "label": "2024-08-01-mdx-blog-post"
+                "path": "/about/Introduction",
+                "label": "Introduction"
               }
             },
             "aboutSidebar": {
               "link": {
-                "path": "/about/mdx-blog-post",
-                "label": "2024-08-01-mdx-blog-post"
+                "path": "/about/Introduction",
+                "label": "Introduction"
               }
             }
           }

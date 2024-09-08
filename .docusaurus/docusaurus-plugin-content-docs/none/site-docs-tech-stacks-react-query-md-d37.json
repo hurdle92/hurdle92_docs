@@ -1,0 +1,26 @@
+{
+  "id": "tech_stacks/react_query",
+  "title": "React-Query",
+  "description": "img",
+  "source": "@site/docs/tech_stacks/react_query.md",
+  "sourceDirName": "tech_stacks",
+  "slug": "/tech_stacks/react_query",
+  "permalink": "/docs/tech_stacks/react_query",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "aboutSidebar",
+  "previous": {
+    "title": "Turborepo",
+    "permalink": "/docs/tech_stacks/Turborepo"
+  },
+  "next": {
+    "title": "Zustand",
+    "permalink": "/docs/tech_stacks/zustand"
+  }
+}

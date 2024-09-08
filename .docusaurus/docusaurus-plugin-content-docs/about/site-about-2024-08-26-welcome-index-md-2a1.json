@@ -1,0 +1,46 @@
+{
+  "id": "2024-08-26-welcome/index",
+  "title": "Welcome",
+  "description": "나중에 에이닷 기술 블로그 ?",
+  "source": "@site/about/2024-08-26-welcome/index.md",
+  "sourceDirName": "2024-08-26-welcome",
+  "slug": "/2024-08-26-welcome/welcome",
+  "permalink": "/about/2024-08-26-welcome/welcome",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "ADOT",
+      "permalink": "/about/tags/adot"
+    },
+    {
+      "inline": true,
+      "label": "DEV",
+      "permalink": "/about/tags/dev"
+    },
+    {
+      "inline": true,
+      "label": "BLOG",
+      "permalink": "/about/tags/blog"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "slug": "welcome",
+    "title": "Welcome",
+    "authors": [
+      "slorber"
+    ],
+    "tags": [
+      "ADOT",
+      "DEV",
+      "BLOG"
+    ]
+  },
+  "sidebar": "aboutSidebar",
+  "previous": {
+    "title": "MDX Blog Post",
+    "permalink": "/about/mdx-blog-post"
+  }
+}
