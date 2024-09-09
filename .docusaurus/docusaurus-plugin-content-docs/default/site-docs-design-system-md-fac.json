@@ -14,7 +14,7 @@
   "frontMatter": {
     "sidebar_position": 4
   },
-  "sidebar": "aboutSidebar",
+  "sidebar": "defaultSidebar",
   "previous": {
     "title": "React Hook Form",
     "permalink": "/docs/tech_stacks/react_hook_form"

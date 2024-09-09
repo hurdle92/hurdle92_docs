@@ -14,7 +14,7 @@
   "frontMatter": {
     "sidebar_position": 2
   },
-  "sidebar": "aboutSidebar",
+  "sidebar": "defaultSidebar",
   "previous": {
     "title": "React",
     "permalink": "/docs/tech_stacks/React"

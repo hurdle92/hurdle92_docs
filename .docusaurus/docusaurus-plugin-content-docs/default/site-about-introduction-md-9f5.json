@@ -5,7 +5,7 @@
   "source": "@site/about/Introduction.md",
   "sourceDirName": ".",
   "slug": "/Introduction",
-  "permalink": "/about/Introduction",
+  "permalink": "/product/Introduction",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -14,9 +14,5 @@
   "frontMatter": {
     "sidebar_position": 1
   },
-  "sidebar": "aboutSidebar",
-  "next": {
-    "title": "MDX Blog Post",
-    "permalink": "/about/mdx-blog-post"
-  }
+  "sidebar": "aboutSidebar"
 }

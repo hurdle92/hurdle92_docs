@@ -104,56 +104,37 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'f75'),
+    component: ComponentCreator('/about', '37d'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', 'df7'),
+        component: ComponentCreator('/about', '4b4'),
         routes: [
           {
-            path: '/about/tags',
-            component: ComponentCreator('/about/tags', '438'),
-            exact: true
-          },
-          {
-            path: '/about/tags/adot',
-            component: ComponentCreator('/about/tags/adot', '257'),
-            exact: true
-          },
-          {
-            path: '/about/tags/blog',
-            component: ComponentCreator('/about/tags/blog', '643'),
-            exact: true
-          },
-          {
-            path: '/about/tags/dev',
-            component: ComponentCreator('/about/tags/dev', '9c6'),
-            exact: true
-          },
-          {
-            path: '/about/tags/docusaurus',
-            component: ComponentCreator('/about/tags/docusaurus', 'b07'),
-            exact: true
-          },
-          {
             path: '/about',
-            component: ComponentCreator('/about', '64c'),
+            component: ComponentCreator('/about', '4fd'),
             routes: [
               {
-                path: '/about/2024-08-26-welcome/welcome',
-                component: ComponentCreator('/about/2024-08-26-welcome/welcome', 'cc4'),
+                path: '/about/Deploy',
+                component: ComponentCreator('/about/Deploy', '702'),
+                exact: true,
+                sidebar: "aboutSidebar"
+              },
+              {
+                path: '/about/design_system',
+                component: ComponentCreator('/about/design_system', 'c21'),
+                exact: true,
+                sidebar: "aboutSidebar"
+              },
+              {
+                path: '/about/folder_structure',
+                component: ComponentCreator('/about/folder_structure', '447'),
                 exact: true,
                 sidebar: "aboutSidebar"
               },
               {
                 path: '/about/Introduction',
                 component: ComponentCreator('/about/Introduction', '041'),
-                exact: true,
-                sidebar: "aboutSidebar"
-              },
-              {
-                path: '/about/mdx-blog-post',
-                component: ComponentCreator('/about/mdx-blog-post', 'fcb'),
                 exact: true,
                 sidebar: "aboutSidebar"
               }
@@ -164,59 +145,82 @@ export default [
     ]
   },
   {
-    path: '/about',
-    component: ComponentCreator('/about', '779'),
+    path: '/docs',
+    component: ComponentCreator('/docs', '5b3'),
     routes: [
       {
-        path: '/about',
-        component: ComponentCreator('/about', 'e33'),
+        path: '/docs',
+        component: ComponentCreator('/docs', '087'),
         routes: [
           {
-            path: '/about/tags',
-            component: ComponentCreator('/about/tags', '29c'),
-            exact: true
-          },
-          {
-            path: '/about/tags/adot',
-            component: ComponentCreator('/about/tags/adot', 'c3e'),
-            exact: true
-          },
-          {
-            path: '/about/tags/blog',
-            component: ComponentCreator('/about/tags/blog', 'f1f'),
-            exact: true
-          },
-          {
-            path: '/about/tags/dev',
-            component: ComponentCreator('/about/tags/dev', 'e66'),
-            exact: true
-          },
-          {
-            path: '/about/tags/docusaurus',
-            component: ComponentCreator('/about/tags/docusaurus', '1b2'),
-            exact: true
-          },
-          {
-            path: '/about',
-            component: ComponentCreator('/about', '64c'),
+            path: '/docs',
+            component: ComponentCreator('/docs', '2dc'),
             routes: [
               {
-                path: '/about/2024-08-26-welcome/welcome',
-                component: ComponentCreator('/about/2024-08-26-welcome/welcome', 'cc4'),
+                path: '/docs/category/tech-stacks',
+                component: ComponentCreator('/docs/category/tech-stacks', 'ca4'),
                 exact: true,
-                sidebar: "aboutSidebar"
+                sidebar: "defaultSidebar"
               },
               {
-                path: '/about/Introduction',
-                component: ComponentCreator('/about/Introduction', '041'),
+                path: '/docs/Deploy',
+                component: ComponentCreator('/docs/Deploy', 'b1c'),
                 exact: true,
-                sidebar: "aboutSidebar"
+                sidebar: "defaultSidebar"
               },
               {
-                path: '/about/mdx-blog-post',
-                component: ComponentCreator('/about/mdx-blog-post', 'fcb'),
+                path: '/docs/design_system',
+                component: ComponentCreator('/docs/design_system', 'bdd'),
                 exact: true,
-                sidebar: "aboutSidebar"
+                sidebar: "defaultSidebar"
+              },
+              {
+                path: '/docs/folder_structure',
+                component: ComponentCreator('/docs/folder_structure', '4ac'),
+                exact: true,
+                sidebar: "defaultSidebar"
+              },
+              {
+                path: '/docs/Introduction',
+                component: ComponentCreator('/docs/Introduction', 'c6b'),
+                exact: true,
+                sidebar: "defaultSidebar"
+              },
+              {
+                path: '/docs/tech_stacks/Nextjs',
+                component: ComponentCreator('/docs/tech_stacks/Nextjs', '206'),
+                exact: true,
+                sidebar: "defaultSidebar"
+              },
+              {
+                path: '/docs/tech_stacks/React',
+                component: ComponentCreator('/docs/tech_stacks/React', '2bc'),
+                exact: true,
+                sidebar: "defaultSidebar"
+              },
+              {
+                path: '/docs/tech_stacks/react_hook_form',
+                component: ComponentCreator('/docs/tech_stacks/react_hook_form', 'f02'),
+                exact: true,
+                sidebar: "defaultSidebar"
+              },
+              {
+                path: '/docs/tech_stacks/react_query',
+                component: ComponentCreator('/docs/tech_stacks/react_query', '266'),
+                exact: true,
+                sidebar: "defaultSidebar"
+              },
+              {
+                path: '/docs/tech_stacks/Turborepo',
+                component: ComponentCreator('/docs/tech_stacks/Turborepo', '84b'),
+                exact: true,
+                sidebar: "defaultSidebar"
+              },
+              {
+                path: '/docs/tech_stacks/zustand',
+                component: ComponentCreator('/docs/tech_stacks/zustand', 'eb5'),
+                exact: true,
+                sidebar: "defaultSidebar"
               }
             ]
           }

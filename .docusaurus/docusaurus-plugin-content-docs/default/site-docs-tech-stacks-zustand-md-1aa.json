@@ -14,7 +14,7 @@
   "frontMatter": {
     "sidebar_position": 5
   },
-  "sidebar": "aboutSidebar",
+  "sidebar": "defaultSidebar",
   "previous": {
     "title": "React-Query",
     "permalink": "/docs/tech_stacks/react_query"

@@ -24,11 +24,6 @@ export default {
     [
       "classic",
       {
-        "docs": {
-          "path": "about",
-          "routeBasePath": "about",
-          "sidebarPath": "./sidebars.ts"
-        },
         "blog": {
           "showReadingTime": true,
           "feedOptions": {
@@ -59,14 +54,13 @@ export default {
       "title": "Sihyung.log",
       "items": [
         {
-          "type": "docSidebar",
-          "sidebarId": "aboutSidebar",
-          "position": "left",
-          "label": "About"
+          "to": "/about/introduction",
+          "label": "About",
+          "position": "left"
         },
         {
           "to": "/blog",
-          "label": "Project",
+          "label": "Projects",
           "position": "left"
         },
         {

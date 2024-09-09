@@ -14,7 +14,7 @@
   "frontMatter": {
     "sidebar_position": 1
   },
-  "sidebar": "aboutSidebar",
+  "sidebar": "defaultSidebar",
   "next": {
     "title": "Folder Structure",
     "permalink": "/docs/folder_structure"

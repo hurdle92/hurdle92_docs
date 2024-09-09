@@ -14,7 +14,7 @@
   "frontMatter": {
     "sidebar_position": 6
   },
-  "sidebar": "aboutSidebar",
+  "sidebar": "defaultSidebar",
   "previous": {
     "title": "Zustand",
     "permalink": "/docs/tech_stacks/zustand"

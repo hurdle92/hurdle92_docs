@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction
 
-**ADOT ON React project** 문서입니다.
+hello
 
 :::info
 

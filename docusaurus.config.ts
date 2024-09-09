@@ -33,11 +33,6 @@ const config: Config = {
     [
       "classic",
       {
-        docs: {
-          path: "about",
-          routeBasePath: "about",
-          sidebarPath: "./sidebars.ts",
-        },
         blog: {
           showReadingTime: true,
           feedOptions: {
@@ -69,13 +64,8 @@ const config: Config = {
       },
       title: "Sihyung.log",
       items: [
-        {
-          type: "docSidebar",
-          sidebarId: "aboutSidebar",
-          position: "left",
-          label: "About",
-        },
-        { to: "/blog", label: "Project", position: "left" },
+        { to: "/about/introduction", label: "About", position: "left" },
+        { to: "/blog", label: "Projects", position: "left" },
         {
           href: "https://github.com/hurdle92",
           label: "GitHub",

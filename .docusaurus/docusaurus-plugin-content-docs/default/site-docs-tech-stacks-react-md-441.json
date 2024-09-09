@@ -14,10 +14,10 @@
   "frontMatter": {
     "sidebar_position": 1
   },
-  "sidebar": "aboutSidebar",
+  "sidebar": "defaultSidebar",
   "previous": {
     "title": "Tech Stacks",
-    "permalink": "/docs/category/tech-stacks-1"
+    "permalink": "/docs/category/tech-stacks"
   },
   "next": {
     "title": "Next.js",

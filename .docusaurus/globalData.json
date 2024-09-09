@@ -1,42 +1,76 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/about",
+      "path": "/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/about",
+          "path": "/docs",
           "mainDocId": "Introduction",
           "docs": [
             {
-              "id": "2024-08-01-mdx-blog-post",
-              "path": "/about/mdx-blog-post",
-              "sidebar": "aboutSidebar"
+              "id": "Deploy",
+              "path": "/docs/Deploy",
+              "sidebar": "defaultSidebar"
             },
             {
-              "id": "2024-08-26-welcome/index",
-              "path": "/about/2024-08-26-welcome/welcome",
-              "sidebar": "aboutSidebar"
+              "id": "design_system",
+              "path": "/docs/design_system",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "folder_structure",
+              "path": "/docs/folder_structure",
+              "sidebar": "defaultSidebar"
             },
             {
               "id": "Introduction",
-              "path": "/about/Introduction",
-              "sidebar": "aboutSidebar"
+              "path": "/docs/Introduction",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "tech_stacks/Nextjs",
+              "path": "/docs/tech_stacks/Nextjs",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "tech_stacks/React",
+              "path": "/docs/tech_stacks/React",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "tech_stacks/react_hook_form",
+              "path": "/docs/tech_stacks/react_hook_form",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "tech_stacks/react_query",
+              "path": "/docs/tech_stacks/react_query",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "tech_stacks/Turborepo",
+              "path": "/docs/tech_stacks/Turborepo",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "tech_stacks/zustand",
+              "path": "/docs/tech_stacks/zustand",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "/category/tech-stacks",
+              "path": "/docs/category/tech-stacks",
+              "sidebar": "defaultSidebar"
             }
           ],
           "draftIds": [],
           "sidebars": {
-            "tutorialSidebar": {
+            "defaultSidebar": {
               "link": {
-                "path": "/about/Introduction",
-                "label": "Introduction"
-              }
-            },
-            "aboutSidebar": {
-              "link": {
-                "path": "/about/Introduction",
+                "path": "/docs/Introduction",
                 "label": "Introduction"
               }
             }
@@ -56,13 +90,18 @@
           "mainDocId": "Introduction",
           "docs": [
             {
-              "id": "2024-08-01-mdx-blog-post",
-              "path": "/about/mdx-blog-post",
+              "id": "Deploy",
+              "path": "/about/Deploy",
               "sidebar": "aboutSidebar"
             },
             {
-              "id": "2024-08-26-welcome/index",
-              "path": "/about/2024-08-26-welcome/welcome",
+              "id": "design_system",
+              "path": "/about/design_system",
+              "sidebar": "aboutSidebar"
+            },
+            {
+              "id": "folder_structure",
+              "path": "/about/folder_structure",
               "sidebar": "aboutSidebar"
             },
             {
