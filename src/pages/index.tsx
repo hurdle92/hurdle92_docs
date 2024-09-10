@@ -9,10 +9,10 @@ import { ReactTyped } from "react-typed";
 const HomePageHeader = () => {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx("hero hero--primary", styles.heroBanner)}>
+    <header className={"bg-blue-500 py-[10rem]"}>
       <main className={"flex flex-col items-center mx-auto"}>
         <ReactTyped
-          strings={[siteConfig.title]}
+          strings={["Sihyung.log&nbsp;", "테니스 치는 개발자&nbsp;"]}
           typeSpeed={70}
           backSpeed={80}
           backDelay={2000}
@@ -25,7 +25,7 @@ const HomePageHeader = () => {
             className="button button--secondary button--lg"
             to="/docs/introduction"
           >
-            🖥️ &nbsp; 에이닷 install &nbsp;&&nbsp; 에이닷 dev
+            🖥️ &nbsp; sihyung install &nbsp;&&nbsp; sihyung dev
           </Link>
         </div>
       </main>
