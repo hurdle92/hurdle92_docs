@@ -34,3 +34,6 @@
 table tr:nth-child(2n) {
   background-color: white;
 }
+p {
+  margin: 0;
+}
