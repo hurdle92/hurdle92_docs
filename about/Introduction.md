@@ -2,7 +2,11 @@
 sidebar_position: 1
 ---
 
-# Introduction
+# 이력서
+
+# 👋 안녕하세요, 박시형 입니다
+
+<br/>
 
 :::info
 
@@ -26,29 +30,32 @@ sidebar_position: 1
 
 # 경력
 
+:::tip
+
+각 회사에서 진행한 세부 프로젝트는 [포트폴리오](/about/category/포트폴리오-1) 메뉴에서 살펴보실 수 있습니다.
+
+:::
+
+<details>
+  <summary><strong style={{color : "blue"}}>디쉐어</strong> → 2023.10 ~ 재직중 </summary>
+
+  - IT 개발팀, Frontend Developer
+  - 주요 업무
+    - 에이닷 ON React 프로젝트 구축
+    - 생성형 AI 플랫폼 프론트엔드 프로토타입 개발
+  - 주요 기술 스택
+    - React, Next.js, React-Query, Turborepo, Zustand, Styled-Components, Storybook
 
 
-## Install Node.js
+</details>
 
-Yarn을 설치하기 전에 Node.js를 먼저 설치해야 합니다. 사용하고 있는 OS에 맞는 방식으로 Node.js를 설치해주세요.
+<details>
+  <summary><strong style={{color : "blue"}}>여신티켓</strong> → 2021.06 ~ 2023.10 (2년 5개월) </summary>
 
-https://nodejs.org/en
+  - 플랫폼 개발팀, Frontend Developer
+  - 주요 업무
+    - 에이닷 ON React 프로젝트 구축
+    - 생성형 AI 플랫폼 프론트엔드 프로토타입 개발
 
-<br/>
 
-## Install Yarn
-
-Yarn은 현재 가장 많이 쓰이는 자바스크립트 패키지 매니저 입니다. 아래 링크에서 사용하고 있는 OS에 맞게 yarn을 설치해주세요.
-
-https://classic.yarnpkg.com/
-
-<br/>
-
-## Install and Run Project
-
-```bash
-yarn install
-yarn dev
-```
-
-ready for you to view at http://localhost:3000
+</details>
