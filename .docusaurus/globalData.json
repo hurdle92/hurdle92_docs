@@ -8,61 +8,11 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "Introduction",
+          "mainDocId": "Deploy",
           "docs": [
             {
               "id": "Deploy",
               "path": "/docs/Deploy",
-              "sidebar": "defaultSidebar"
-            },
-            {
-              "id": "design_system",
-              "path": "/docs/design_system",
-              "sidebar": "defaultSidebar"
-            },
-            {
-              "id": "folder_structure",
-              "path": "/docs/folder_structure",
-              "sidebar": "defaultSidebar"
-            },
-            {
-              "id": "Introduction",
-              "path": "/docs/Introduction",
-              "sidebar": "defaultSidebar"
-            },
-            {
-              "id": "tech_stacks/Nextjs",
-              "path": "/docs/tech_stacks/Nextjs",
-              "sidebar": "defaultSidebar"
-            },
-            {
-              "id": "tech_stacks/React",
-              "path": "/docs/tech_stacks/React",
-              "sidebar": "defaultSidebar"
-            },
-            {
-              "id": "tech_stacks/react_hook_form",
-              "path": "/docs/tech_stacks/react_hook_form",
-              "sidebar": "defaultSidebar"
-            },
-            {
-              "id": "tech_stacks/react_query",
-              "path": "/docs/tech_stacks/react_query",
-              "sidebar": "defaultSidebar"
-            },
-            {
-              "id": "tech_stacks/Turborepo",
-              "path": "/docs/tech_stacks/Turborepo",
-              "sidebar": "defaultSidebar"
-            },
-            {
-              "id": "tech_stacks/zustand",
-              "path": "/docs/tech_stacks/zustand",
-              "sidebar": "defaultSidebar"
-            },
-            {
-              "id": "/category/tech-stacks",
-              "path": "/docs/category/tech-stacks",
               "sidebar": "defaultSidebar"
             }
           ],
@@ -70,8 +20,8 @@
           "sidebars": {
             "defaultSidebar": {
               "link": {
-                "path": "/docs/Introduction",
-                "label": "Introduction"
+                "path": "/docs/Deploy",
+                "label": "Deploy"
               }
             }
           }
@@ -92,22 +42,62 @@
             {
               "id": "Deploy",
               "path": "/about/Deploy",
-              "sidebar": "aboutSidebar"
+              "sidebar": "sideprojectSidebar"
             },
             {
               "id": "design_system",
               "path": "/about/design_system",
-              "sidebar": "aboutSidebar"
+              "sidebar": "sideprojectSidebar"
             },
             {
               "id": "folder_structure",
               "path": "/about/folder_structure",
-              "sidebar": "aboutSidebar"
+              "sidebar": "sideprojectSidebar"
             },
             {
               "id": "Introduction",
               "path": "/about/Introduction",
-              "sidebar": "aboutSidebar"
+              "sidebar": "sideprojectSidebar"
+            },
+            {
+              "id": "tech_stacks/Nextjs",
+              "path": "/about/tech_stacks/Nextjs",
+              "sidebar": "sideprojectSidebar"
+            },
+            {
+              "id": "tech_stacks/React",
+              "path": "/about/tech_stacks/React",
+              "sidebar": "sideprojectSidebar"
+            },
+            {
+              "id": "tech_stacks/react_hook_form",
+              "path": "/about/tech_stacks/react_hook_form",
+              "sidebar": "sideprojectSidebar"
+            },
+            {
+              "id": "tech_stacks/react_query",
+              "path": "/about/tech_stacks/react_query",
+              "sidebar": "sideprojectSidebar"
+            },
+            {
+              "id": "tech_stacks/Turborepo",
+              "path": "/about/tech_stacks/Turborepo",
+              "sidebar": "sideprojectSidebar"
+            },
+            {
+              "id": "tech_stacks/zustand",
+              "path": "/about/tech_stacks/zustand",
+              "sidebar": "sideprojectSidebar"
+            },
+            {
+              "id": "/category/포트폴리오",
+              "path": "/about/category/포트폴리오",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/포트폴리오-1",
+              "path": "/about/category/포트폴리오-1",
+              "sidebar": "sideprojectSidebar"
             }
           ],
           "draftIds": [],
@@ -118,9 +108,44 @@
                 "label": "Introduction"
               }
             },
-            "aboutSidebar": {
+            "sideprojectSidebar": {
               "link": {
                 "path": "/about/Introduction",
+                "label": "Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "sideproject": {
+      "path": "/sideproject",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/sideproject",
+          "mainDocId": "Introduction",
+          "docs": [
+            {
+              "id": "Introduction",
+              "path": "/sideproject/Introduction",
+              "sidebar": "sideprojectSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/sideproject/Introduction",
+                "label": "Introduction"
+              }
+            },
+            "sideprojectSidebar": {
+              "link": {
+                "path": "/sideproject/Introduction",
                 "label": "Introduction"
               }
             }

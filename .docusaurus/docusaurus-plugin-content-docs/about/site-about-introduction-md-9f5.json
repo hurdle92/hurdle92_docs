@@ -1,7 +1,7 @@
 {
   "id": "Introduction",
   "title": "Introduction",
-  "description": "hello",
+  "description": "코드를 통해 유저들에게 편리한 서비스를 제공하고 싶은 프론트엔드 개발자 박시형입니다.",
   "source": "@site/about/Introduction.md",
   "sourceDirName": ".",
   "slug": "/Introduction",
@@ -14,9 +14,9 @@
   "frontMatter": {
     "sidebar_position": 1
   },
-  "sidebar": "aboutSidebar",
+  "sidebar": "sideprojectSidebar",
   "next": {
-    "title": "Folder Structure",
-    "permalink": "/about/folder_structure"
+    "title": "포트폴리오",
+    "permalink": "/about/category/포트폴리오-1"
   }
 }

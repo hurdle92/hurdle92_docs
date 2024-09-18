@@ -6,11 +6,11 @@
 export default {
   "title": "Sihyung.log",
   "favicon": "img/favicon.ico",
+  "onBrokenLinks": "ignore",
   "url": "https://your-docusaurus-site.example.com",
   "baseUrl": "/",
   "organizationName": "facebook",
   "projectName": "docusaurus",
-  "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
@@ -59,8 +59,8 @@ export default {
           "position": "left"
         },
         {
-          "to": "/blog",
-          "label": "Projects",
+          "to": "/sideproject/introduction",
+          "label": "SideProject",
           "position": "left"
         },
         {
@@ -73,48 +73,8 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "links": [
-        {
-          "title": "Docs",
-          "items": [
-            {
-              "label": "Tutorial",
-              "to": "/docs/intro"
-            }
-          ]
-        },
-        {
-          "title": "Community",
-          "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
-            }
-          ]
-        }
-      ],
-      "copyright": "Copyright © 2024 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2024 My Project, Inc. Built with Docusaurus.",
+      "links": []
     },
     "prism": {
       "theme": {
@@ -351,6 +311,15 @@ export default {
         "id": "about",
         "path": "about",
         "routeBasePath": "about",
+        "sidebarPath": "./sidebars.ts"
+      }
+    ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        "id": "sideproject",
+        "path": "sideproject",
+        "routeBasePath": "sideproject",
         "sidebarPath": "./sidebars.ts"
       }
     ]

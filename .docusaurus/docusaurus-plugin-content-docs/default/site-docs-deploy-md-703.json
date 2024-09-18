@@ -14,9 +14,5 @@
   "frontMatter": {
     "sidebar_position": 5
   },
-  "sidebar": "defaultSidebar",
-  "previous": {
-    "title": "ADOT Design System",
-    "permalink": "/docs/design_system"
-  }
+  "sidebar": "defaultSidebar"
 }
