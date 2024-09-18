@@ -4,15 +4,29 @@ sidebar_position: 1
 
 # Introduction
 
-hello
-
 :::info
 
-[React Repository 링크](https://github.com/dshare-inc/adot_on_react_renewal)
+코드를 통해 유저들에게 편리한 서비스를 제공하고 싶은 **프론트엔드 개발자 박시형**입니다.
+
+인테리어, 피부시술 플랫폼, 에듀테크 등 다양한 도메인 환경에서 개발한 경험이 있습니다.
+
+
 
 :::
 
 <br/>
+
+# 박시형 (PARK SI HYUNG)
+
+- 이메일 : shpkc@naver.com
+- 깃허브 : https://github.com/hurdle92
+- 블로그 : https://teveloper.tistory.com
+
+<br/>
+
+# 경력
+
+
 
 ## Install Node.js
 
