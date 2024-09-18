@@ -65,7 +65,7 @@ const config: Config = {
       title: "Sihyung.log",
       items: [
         { to: "/about/introduction", label: "About", position: "left" },
-        { to: "/blog", label: "Projects", position: "left" },
+        { to: "/sideproject/introduction", label: "SideProject", position: "left" },
         {
           href: "https://github.com/hurdle92",
           label: "GitHub",
@@ -132,7 +132,15 @@ const config: Config = {
         path: "about",
         routeBasePath: "about",
         sidebarPath: "./sidebars.ts",
-        // ... other options
+      },
+    ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "sideproject",
+        path: "sideproject",
+        routeBasePath: "sideproject",
+        sidebarPath: "./sidebars.ts",
       },
     ],
   ],
