@@ -25,6 +25,7 @@ sidebar_position: 1
 - 블로그 : https://teveloper.tistory.com
 
 <br/>
+<br/>
 
 # 경력
 
@@ -103,3 +104,20 @@ import BrowserWindow from '@site/src/components/BrowserWindow';
 </TabItem>
 </Tabs>
 </BrowserWindow>
+
+<br/>
+<br/>
+
+# 학력
+
+<details>
+  <summary>연세대학교 미래캠퍼스 졸업</summary>
+
+- **컴퓨터 정보통신공학부**를 졸업했습니다. (2013.03 ~ 2019.02)
+
+</details>
+
+<br/>
+<br/>
+
+# 기타 활동
