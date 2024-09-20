@@ -83,11 +83,13 @@ sidebar_position: 1
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+import BrowserWindow from '@site/src/components/BrowserWindow';
 
+<BrowserWindow>
 <Tabs>
 <TabItem value="js" label="Frontend">
 
-- React.js 및 기반 기술들을 이용해 API로 연동되어 동작하는 웹사이트를 제작할 수 있습니다.
+- **React.js** 및 기반 기술들을 이용해 API로 연동되어 동작하는 웹사이트를 제작할 수 있습니다.
   - 웹사이트 제작 경험이 있습니다.
   - 웹사이트 제작 경험이 있습니다.
 
@@ -100,3 +102,4 @@ import TabItem from '@theme/TabItem';
 
 </TabItem>
 </Tabs>
+</BrowserWindow>
