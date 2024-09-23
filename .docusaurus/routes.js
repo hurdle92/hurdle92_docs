@@ -158,15 +158,15 @@ export default [
   },
   {
     path: '/sideproject',
-    component: ComponentCreator('/sideproject', '187'),
+    component: ComponentCreator('/sideproject', '3f7'),
     routes: [
       {
         path: '/sideproject',
-        component: ComponentCreator('/sideproject', '6a4'),
+        component: ComponentCreator('/sideproject', '8c0'),
         routes: [
           {
             path: '/sideproject',
-            component: ComponentCreator('/sideproject', '76a'),
+            component: ComponentCreator('/sideproject', 'ee8'),
             routes: [
               {
                 path: '/sideproject/category/개발하며-고민한-부분',
@@ -205,14 +205,38 @@ export default [
                 sidebar: "sideprojectSidebar"
               },
               {
-                path: '/sideproject/insights/React',
-                component: ComponentCreator('/sideproject/insights/React', '282'),
+                path: '/sideproject/insights/calendar',
+                component: ComponentCreator('/sideproject/insights/calendar', 'ef8'),
+                exact: true,
+                sidebar: "sideprojectSidebar"
+              },
+              {
+                path: '/sideproject/insights/flutter',
+                component: ComponentCreator('/sideproject/insights/flutter', '548'),
+                exact: true,
+                sidebar: "sideprojectSidebar"
+              },
+              {
+                path: '/sideproject/insights/MVVM',
+                component: ComponentCreator('/sideproject/insights/MVVM', '458'),
+                exact: true,
+                sidebar: "sideprojectSidebar"
+              },
+              {
+                path: '/sideproject/insights/supabase',
+                component: ComponentCreator('/sideproject/insights/supabase', 'c65'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },
               {
                 path: '/sideproject/introduction',
                 component: ComponentCreator('/sideproject/introduction', '340'),
+                exact: true,
+                sidebar: "sideprojectSidebar"
+              },
+              {
+                path: '/sideproject/tech_stacks',
+                component: ComponentCreator('/sideproject/tech_stacks', '225'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },

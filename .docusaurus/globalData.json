@@ -140,13 +140,33 @@
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "insights/React",
-              "path": "/sideproject/insights/React",
+              "id": "insights/calendar",
+              "path": "/sideproject/insights/calendar",
+              "sidebar": "sideprojectSidebar"
+            },
+            {
+              "id": "insights/flutter",
+              "path": "/sideproject/insights/flutter",
+              "sidebar": "sideprojectSidebar"
+            },
+            {
+              "id": "insights/MVVM",
+              "path": "/sideproject/insights/MVVM",
+              "sidebar": "sideprojectSidebar"
+            },
+            {
+              "id": "insights/supabase",
+              "path": "/sideproject/insights/supabase",
               "sidebar": "sideprojectSidebar"
             },
             {
               "id": "introduction",
               "path": "/sideproject/introduction",
+              "sidebar": "sideprojectSidebar"
+            },
+            {
+              "id": "tech_stacks",
+              "path": "/sideproject/tech_stacks",
               "sidebar": "sideprojectSidebar"
             },
             {
@@ -180,23 +200,23 @@
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "/category/개발하며-고민한-부분",
-              "path": "/sideproject/category/개발하며-고민한-부분",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "/category/업데이트-내역",
               "path": "/sideproject/category/업데이트-내역",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/개발하며-고민한-부분-1",
-              "path": "/sideproject/category/개발하며-고민한-부분-1",
-              "sidebar": "sideprojectSidebar"
+              "id": "/category/개발하며-고민한-부분",
+              "path": "/sideproject/category/개발하며-고민한-부분",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/업데이트-내역-1",
               "path": "/sideproject/category/업데이트-내역-1",
+              "sidebar": "sideprojectSidebar"
+            },
+            {
+              "id": "/category/개발하며-고민한-부분-1",
+              "path": "/sideproject/category/개발하며-고민한-부분-1",
               "sidebar": "sideprojectSidebar"
             }
           ],
