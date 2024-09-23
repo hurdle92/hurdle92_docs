@@ -4,15 +4,55 @@ sidebar_position: 1
 
 # 타이브레이크
 
-**ADOT ON React project** 문서입니다.
+
+![img](/img/sideproject/tiebreak_cover.png)
+
+
 
 :::info
 
-[React Repository 링크](https://github.com/dshare-inc/adot_on_react_renewal)
+[🍎 앱스토어](https://apps.apple.com/kr/app/%ED%83%80%EC%9D%B4%EB%B8%8C%EB%A0%88%EC%9D%B4%ED%81%AC/id6476483336)
 
+[📱 플레이스토어](https://play.google.com/store/apps/details?id=com.app.tiebreak&pcampaignid=web_share)
+
+[🌐 WEB](https://tiebreak.vercel.app/)
 :::
 
-# Tennis Diary App
+<br/>
+
+# 개요
+
+테니스를 체계적으로 기록하기 위해 만든 테니스 다이어리 앱, 타이브레이크 입니다.
+
+테니스를 치는 사람들은 보통 그 날의 플레이 기록을 인스타 스토리 공유에 그치고 마는데, 
+좀 더 체계적으로 다이어리 형식으로 작성하면 어떨까 해서 개발하게 되었습니다.
+
+
+
+
+<br/>
+
+
+# 앱을 만들게 된 배경
+
+많은 테니스 유저들은 
+
+
+
+# 주요 기능
+
+# Tech Stacks
+
+# Preview
+
+
+
+
+
+
+
+
+# 
 
 Welcome to the Tennis Diary App project documentation!
 

@@ -127,22 +127,54 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-deploy-703-d49"
   },
-  "/sideproject-550": {
+  "/sideproject-694": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---sideproject-620-6fb"
     }
   },
-  "/sideproject-a1f": {
+  "/sideproject-d33": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---sideproject-76-f-e12"
   },
-  "/sideproject-567": {
+  "/sideproject-8bc": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/sideproject/category/업데이트-일지-6be": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---sideproject-category-업데이트-일지e-24-5df"
+  },
+  "/sideproject/category/업데이트-일지-1-ffc": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---sideproject-category-업데이트-일지-165-b-060"
   },
   "/sideproject/Introduction-a5c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sideproject-introduction-4-f-1-8d7"
+  },
+  "/sideproject/update_list/Nextjs-cc8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sideproject-update-list-nextjs-4-c-7-59b"
+  },
+  "/sideproject/update_list/React-00b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sideproject-update-list-react-284-313"
+  },
+  "/sideproject/update_list/react_hook_form-8cb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sideproject-update-list-react-hook-formdff-c42"
+  },
+  "/sideproject/update_list/react_query-265": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sideproject-update-list-react-queryec-3-20b"
+  },
+  "/sideproject/update_list/Turborepo-870": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sideproject-update-list-turborepo-6-b-5-676"
+  },
+  "/sideproject/update_list/zustand-bb9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sideproject-update-list-zustandd-45-582"
   },
   "/-e5f": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
