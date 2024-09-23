@@ -1,0 +1,7 @@
+.blue {
+    color: blue;
+  }
+.blue[aria-selected='true'] {
+    border-bottom-color: blue;
+}
+  
