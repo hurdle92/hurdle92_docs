@@ -34,6 +34,11 @@
 table tr:nth-child(2n) {
   background-color: white;
 }
+
 p {
   margin: 0;
+}
+
+.markdown > pre, .markdown > ul, .markdown > p{
+  margin:0;
 }
