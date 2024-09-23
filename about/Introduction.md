@@ -99,7 +99,7 @@ import styles from './styles.module.css';
 </TabItem>
 <TabItem value="flutter" label="Flutter">
 
-- **Flutter**를 활용해 크로스 플랫폼 앱 개발을 할 수 있습니다.
+- **Flutter**를 활용해 크로스 플랫폼 앱 개발을 한 경험이 있습니다.
   - 앱 개발 경험이 있습니다.
   - 앱 개발 경험이 있습니다.
 

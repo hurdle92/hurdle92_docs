@@ -180,8 +180,8 @@
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "/category/개발하며-고민한-흔적",
-              "path": "/sideproject/category/개발하며-고민한-흔적",
+              "id": "/category/개발하며-고민한-부분",
+              "path": "/sideproject/category/개발하며-고민한-부분",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -190,8 +190,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/개발하며-고민한-흔적-1",
-              "path": "/sideproject/category/개발하며-고민한-흔적-1",
+              "id": "/category/개발하며-고민한-부분-1",
+              "path": "/sideproject/category/개발하며-고민한-부분-1",
               "sidebar": "sideprojectSidebar"
             },
             {

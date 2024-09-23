@@ -13,7 +13,7 @@ sidebar_position: 1
 
 
 <a href="https://apps.apple.com/kr/app/%ED%83%80%EC%9D%B4%EB%B8%8C%EB%A0%88%EC%9D%B4%ED%81%AC/id6476483336" target="_blank">
-<img src="/img/sideproject/introduction/appstore.png" alt="Tiebreak Cover" style={{width:"120px"}}/>
+<img src="/img/sideproject/introduction/appstore.png" alt="Tiebreak Cover" style={{width:"120px", marginRight:"4px"}}/>
 </a>
 
 <a href="https://play.google.com/store/apps/details?id=com.app.tiebreak&pcampaignid=web_share" target="_blank">
