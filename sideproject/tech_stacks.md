@@ -42,12 +42,9 @@ sidebar_position: 3
 │                         └── diary.dart
 │                         └── diary.g.dart
 │                   └── provider
-
 │                   └── service
 │                   └── viewModel
 │                   └── view
-
-
 │     └── adot_on_renewal
 │           └── src
 │                 └── components
@@ -106,4 +103,7 @@ sidebar_position: 3
 
 ```
 
+<br/>
+<br/>
 
+# MVVM Model

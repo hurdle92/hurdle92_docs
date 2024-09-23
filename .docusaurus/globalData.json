@@ -200,23 +200,23 @@
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "/category/업데이트-내역",
-              "path": "/sideproject/category/업데이트-내역",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "/category/개발하며-고민한-부분",
               "path": "/sideproject/category/개발하며-고민한-부분",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/업데이트-내역-1",
-              "path": "/sideproject/category/업데이트-내역-1",
-              "sidebar": "sideprojectSidebar"
+              "id": "/category/업데이트-내역",
+              "path": "/sideproject/category/업데이트-내역",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/개발하며-고민한-부분-1",
               "path": "/sideproject/category/개발하며-고민한-부분-1",
+              "sidebar": "sideprojectSidebar"
+            },
+            {
+              "id": "/category/업데이트-내역-1",
+              "path": "/sideproject/category/업데이트-내역-1",
               "sidebar": "sideprojectSidebar"
             }
           ],
