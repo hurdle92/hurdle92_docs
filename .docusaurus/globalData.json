@@ -127,51 +127,76 @@
           "label": "Next",
           "isLast": true,
           "path": "/sideproject",
-          "mainDocId": "Introduction",
+          "mainDocId": "introduction",
           "docs": [
             {
-              "id": "Introduction",
-              "path": "/sideproject/Introduction",
+              "id": "features",
+              "path": "/sideproject/features",
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "update_list/Nextjs",
-              "path": "/sideproject/update_list/Nextjs",
+              "id": "feedback",
+              "path": "/sideproject/feedback",
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "update_list/React",
-              "path": "/sideproject/update_list/React",
+              "id": "insights/React",
+              "path": "/sideproject/insights/React",
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "update_list/react_hook_form",
-              "path": "/sideproject/update_list/react_hook_form",
+              "id": "introduction",
+              "path": "/sideproject/introduction",
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "update_list/react_query",
-              "path": "/sideproject/update_list/react_query",
+              "id": "updates_list/Nextjs",
+              "path": "/sideproject/updates_list/Nextjs",
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "update_list/Turborepo",
-              "path": "/sideproject/update_list/Turborepo",
+              "id": "updates_list/React",
+              "path": "/sideproject/updates_list/React",
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "update_list/zustand",
-              "path": "/sideproject/update_list/zustand",
+              "id": "updates_list/react_hook_form",
+              "path": "/sideproject/updates_list/react_hook_form",
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "/category/업데이트-일지",
-              "path": "/sideproject/category/업데이트-일지",
+              "id": "updates_list/react_query",
+              "path": "/sideproject/updates_list/react_query",
+              "sidebar": "sideprojectSidebar"
+            },
+            {
+              "id": "updates_list/Turborepo",
+              "path": "/sideproject/updates_list/Turborepo",
+              "sidebar": "sideprojectSidebar"
+            },
+            {
+              "id": "updates_list/zustand",
+              "path": "/sideproject/updates_list/zustand",
+              "sidebar": "sideprojectSidebar"
+            },
+            {
+              "id": "/category/개발하며-고민한-흔적",
+              "path": "/sideproject/category/개발하며-고민한-흔적",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/업데이트-일지-1",
-              "path": "/sideproject/category/업데이트-일지-1",
+              "id": "/category/업데이트-내역",
+              "path": "/sideproject/category/업데이트-내역",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/개발하며-고민한-흔적-1",
+              "path": "/sideproject/category/개발하며-고민한-흔적-1",
+              "sidebar": "sideprojectSidebar"
+            },
+            {
+              "id": "/category/업데이트-내역-1",
+              "path": "/sideproject/category/업데이트-내역-1",
               "sidebar": "sideprojectSidebar"
             }
           ],
@@ -179,14 +204,14 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/sideproject/Introduction",
-                "label": "Introduction"
+                "path": "/sideproject/introduction",
+                "label": "introduction"
               }
             },
             "sideprojectSidebar": {
               "link": {
-                "path": "/sideproject/Introduction",
-                "label": "Introduction"
+                "path": "/sideproject/introduction",
+                "label": "introduction"
               }
             }
           }

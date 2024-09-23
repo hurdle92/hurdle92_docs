@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
-    exact: true
-  },
-  {
     path: '/markdown-page',
     component: ComponentCreator('/markdown-page', '3d7'),
     exact: true
@@ -158,67 +123,97 @@ export default [
   },
   {
     path: '/sideproject',
-    component: ComponentCreator('/sideproject', '694'),
+    component: ComponentCreator('/sideproject', '9c1'),
     routes: [
       {
         path: '/sideproject',
-        component: ComponentCreator('/sideproject', 'd33'),
+        component: ComponentCreator('/sideproject', 'b92'),
         routes: [
           {
             path: '/sideproject',
-            component: ComponentCreator('/sideproject', '8bc'),
+            component: ComponentCreator('/sideproject', '3db'),
             routes: [
               {
-                path: '/sideproject/category/업데이트-일지',
-                component: ComponentCreator('/sideproject/category/업데이트-일지', '6be'),
+                path: '/sideproject/category/개발하며-고민한-흔적',
+                component: ComponentCreator('/sideproject/category/개발하며-고민한-흔적', '233'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/sideproject/category/업데이트-일지-1',
-                component: ComponentCreator('/sideproject/category/업데이트-일지-1', 'ffc'),
+                path: '/sideproject/category/개발하며-고민한-흔적-1',
+                component: ComponentCreator('/sideproject/category/개발하며-고민한-흔적-1', 'f7c'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },
               {
-                path: '/sideproject/Introduction',
-                component: ComponentCreator('/sideproject/Introduction', 'a5c'),
+                path: '/sideproject/category/업데이트-내역',
+                component: ComponentCreator('/sideproject/category/업데이트-내역', 'de7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/sideproject/category/업데이트-내역-1',
+                component: ComponentCreator('/sideproject/category/업데이트-내역-1', 'ed6'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },
               {
-                path: '/sideproject/update_list/Nextjs',
-                component: ComponentCreator('/sideproject/update_list/Nextjs', 'cc8'),
+                path: '/sideproject/features',
+                component: ComponentCreator('/sideproject/features', '172'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },
               {
-                path: '/sideproject/update_list/React',
-                component: ComponentCreator('/sideproject/update_list/React', '00b'),
+                path: '/sideproject/feedback',
+                component: ComponentCreator('/sideproject/feedback', 'f9e'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },
               {
-                path: '/sideproject/update_list/react_hook_form',
-                component: ComponentCreator('/sideproject/update_list/react_hook_form', '8cb'),
+                path: '/sideproject/insights/React',
+                component: ComponentCreator('/sideproject/insights/React', '282'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },
               {
-                path: '/sideproject/update_list/react_query',
-                component: ComponentCreator('/sideproject/update_list/react_query', '265'),
+                path: '/sideproject/introduction',
+                component: ComponentCreator('/sideproject/introduction', '340'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },
               {
-                path: '/sideproject/update_list/Turborepo',
-                component: ComponentCreator('/sideproject/update_list/Turborepo', '870'),
+                path: '/sideproject/updates_list/Nextjs',
+                component: ComponentCreator('/sideproject/updates_list/Nextjs', 'de4'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },
               {
-                path: '/sideproject/update_list/zustand',
-                component: ComponentCreator('/sideproject/update_list/zustand', 'bb9'),
+                path: '/sideproject/updates_list/React',
+                component: ComponentCreator('/sideproject/updates_list/React', '55d'),
+                exact: true,
+                sidebar: "sideprojectSidebar"
+              },
+              {
+                path: '/sideproject/updates_list/react_hook_form',
+                component: ComponentCreator('/sideproject/updates_list/react_hook_form', '8c9'),
+                exact: true,
+                sidebar: "sideprojectSidebar"
+              },
+              {
+                path: '/sideproject/updates_list/react_query',
+                component: ComponentCreator('/sideproject/updates_list/react_query', 'c54'),
+                exact: true,
+                sidebar: "sideprojectSidebar"
+              },
+              {
+                path: '/sideproject/updates_list/Turborepo',
+                component: ComponentCreator('/sideproject/updates_list/Turborepo', '95f'),
+                exact: true,
+                sidebar: "sideprojectSidebar"
+              },
+              {
+                path: '/sideproject/updates_list/zustand',
+                component: ComponentCreator('/sideproject/updates_list/zustand', '78e'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               }
