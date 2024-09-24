@@ -158,15 +158,15 @@ export default [
   },
   {
     path: '/sideproject',
-    component: ComponentCreator('/sideproject', '3f7'),
+    component: ComponentCreator('/sideproject', '6bb'),
     routes: [
       {
         path: '/sideproject',
-        component: ComponentCreator('/sideproject', '8c0'),
+        component: ComponentCreator('/sideproject', '02d'),
         routes: [
           {
             path: '/sideproject',
-            component: ComponentCreator('/sideproject', 'ee8'),
+            component: ComponentCreator('/sideproject', '741'),
             routes: [
               {
                 path: '/sideproject/category/개발하며-고민한-부분',
@@ -205,26 +205,26 @@ export default [
                 sidebar: "sideprojectSidebar"
               },
               {
-                path: '/sideproject/insights/calendar',
-                component: ComponentCreator('/sideproject/insights/calendar', 'ef8'),
-                exact: true,
-                sidebar: "sideprojectSidebar"
-              },
-              {
                 path: '/sideproject/insights/flutter',
                 component: ComponentCreator('/sideproject/insights/flutter', '548'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },
               {
-                path: '/sideproject/insights/MVVM',
-                component: ComponentCreator('/sideproject/insights/MVVM', '458'),
+                path: '/sideproject/insights/mvvm',
+                component: ComponentCreator('/sideproject/insights/mvvm', 'a22'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },
               {
                 path: '/sideproject/insights/supabase',
                 component: ComponentCreator('/sideproject/insights/supabase', 'c65'),
+                exact: true,
+                sidebar: "sideprojectSidebar"
+              },
+              {
+                path: '/sideproject/insights/update',
+                component: ComponentCreator('/sideproject/insights/update', 'ef9'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },

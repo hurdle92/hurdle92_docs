@@ -28,6 +28,17 @@ sidebar_position: 3
 
 # Folder Structure
 
+타이브레이크의 폴더 구조는 다음과 같습니다. 
+
+<br/>
+
+초반에는 Feature 지금처럼 많지 않아 Layer First 구조로 구성하였지만,
+10개가 넘는 피쳐와 기능이 추가되고 레이어 단위로 구성이 힘들어져 Feature 단위로 구조를 개편하였습니다.
+
+
+<br/>
+<br/>
+
 
 ```bash
 │

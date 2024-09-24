@@ -140,23 +140,23 @@
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "insights/calendar",
-              "path": "/sideproject/insights/calendar",
-              "sidebar": "sideprojectSidebar"
-            },
-            {
               "id": "insights/flutter",
               "path": "/sideproject/insights/flutter",
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "insights/MVVM",
-              "path": "/sideproject/insights/MVVM",
+              "id": "insights/mvvm",
+              "path": "/sideproject/insights/mvvm",
               "sidebar": "sideprojectSidebar"
             },
             {
               "id": "insights/supabase",
               "path": "/sideproject/insights/supabase",
+              "sidebar": "sideprojectSidebar"
+            },
+            {
+              "id": "insights/update",
+              "path": "/sideproject/insights/update",
               "sidebar": "sideprojectSidebar"
             },
             {

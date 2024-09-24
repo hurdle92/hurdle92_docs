@@ -127,17 +127,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-deploy-703-d49"
   },
-  "/sideproject-3f7": {
+  "/sideproject-6bb": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---sideproject-620-6fb"
     }
   },
-  "/sideproject-8c0": {
+  "/sideproject-02d": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---sideproject-76-f-e12"
   },
-  "/sideproject-ee8": {
+  "/sideproject-741": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/sideproject/category/개발하며-고민한-부분-609": {
@@ -164,21 +164,21 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sideproject-feedback-64-a-b55"
   },
-  "/sideproject/insights/calendar-ef8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---sideproject-insights-calendar-1-c-5-d86"
-  },
   "/sideproject/insights/flutter-548": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sideproject-insights-flutterc-00-91a"
   },
-  "/sideproject/insights/MVVM-458": {
+  "/sideproject/insights/mvvm-a22": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---sideproject-insights-mvv-me-26-5f3"
+    "content": "content---sideproject-insights-mvvm-48-d-576"
   },
   "/sideproject/insights/supabase-c65": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sideproject-insights-supabase-8-bd-5c4"
+  },
+  "/sideproject/insights/update-ef9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---sideproject-insights-updatec-4-f-671"
   },
   "/sideproject/introduction-340": {
     "__comp": "__comp---theme-doc-item-178-a40",
