@@ -6,44 +6,34 @@ sidebar_position: 1
 
 <br/>
 
-![react](https://legacy.reactjs.org/logo-og.png)
-
-# React
-
-React는 Facebook(현재 Meta)에서 만든 Javascript 사용자인터페이스(UI) 라이브러리입니다.
-한 때 React, Vue.js, Angular 3대장인 시절이 있었지만 최근에는 React가 대세인 추세입니다.
-2012년 Webpack, 2013년 React가 등장하며 프론트엔드 생태계가 빠르게 변화하였습니다.
+![flutter](https://cdn.prod.website-files.com/5f841209f4e71b2d70034471/60bb4a2e143f632da3e56aea_Flutter%20app%20development%20(2).png)
 
 <br/>
 
-![img](/img/graph.png)
+# Flutter
+
+React 개발자임에도 React-Native가 아닌 Flutter를 크로스 플랫폼으로 선택했습니다.
+Dart라는 새로운 언어를 배워야하는 진입장벽에도, 제가 Flutter를 선택한 이유는 다음과 같습니다.
 
 <br/>
-
-React의 장점은 다음과 같습니다.
-
-## **React의 장점**
-
-- 컴포넌트 기반 UI로 개발 생산성이 높음.
-- Virtual Dom을 사용해 개발자가 일일이 DOM 조작을 할 필요가 없음.
-- 개발 커뮤니티, 리소스, 생태계 풀이 넓음.
-
-```jsx title="src/app.js"
-import React from "react";
-import Layout from "@theme/Layout";
-
-export default function App() {
-  return (
-    <Layout>
-      <h1>My React App</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
-
 <br/>
 
-아래 글에서 React에 대해 잘 설명해주고 있습니다.
+- Flutter 내부에서 제공하는 위젯들로 높은 생산성을 제공할 수 있음.
+- DX, 개발자 경험이 굉장히 좋고 디버깅이 편함. RN으로 개발할 때는 내 컴퓨터와의 싸움이 잦았음.
+- Line을 비롯하여 많은 기업들에서 Flutter를 도입, 생태계가 확장되는 중임.
+- Dart라는 새로운 언어를 배워야 함에도 개인적으로 크게 러닝커브가 높진 않았음.
+- 공식 지원하는 플러그인이 점차 늘어나고 있음. (포트원도 Flutter를 제공)
 
-[React란? 프론트엔드 개발에서 React가 대세인 이유](https://nbcamp.spartacodingclub.kr/blog/react%EB%9E%80-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%97%90%EC%84%9C-react%EA%B0%80-%EB%8C%80%EC%84%B8%EC%9D%B8-%EC%9D%B4%EC%9C%A0-2294)
+<br/>
+<br/>
+
+최근 5년간 구글 트랜드를 비교해도, Flutter의 관심과 생태계가 확장되고 있음을 확인할 수 있습니다.
+많은 스타트업과 기업에서 Flutter를 크로스 플랫폼으로 채택하고 있으며 개인적으로 이 시장은 점차 커질것으로 생각되어 Flutter를 선택하였습니다.
+
+<br/>
+<br/>
+
+![img](/img/sideproject/insights/google_trend.png)
+
+
+

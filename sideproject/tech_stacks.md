@@ -80,43 +80,8 @@ sidebar_position: 3
 
 ```
 
-```
-|-- lib
-    |-- app
-    |   |-- router
-    |   |-- style
-    |  
-    |-- core
-    |   |-- constants      
-    |        
-    |-- features
-    |   |-- diary
-    |   |   |-- create
-    |   |   |   |-- model
-    |   |   |       |-- diary.dart
-    |   |   |       |-- diary.g.dart
-    |   |   |   |-- provider
-    |   |   |       |-- diary_create_view_model_provider.dart
-    |   |   |   |-- service
-    |   |   |       |-- diary_create_service.dart
-    |   |   |   |-- viewModel
-    |   |   |       |-- diary_create_view_model.dart
-    |   |   |   |-- view
-    |   |   |       |-- widgets
-    |   |   |       |-- diary_create_view.dart
-    |   |-- courts
-    |   |-- posts
-    |   |-- my
-    |   
-    |-- utils
-    |   |-- images
-    |   |-- clipboard
-    |   |-- helper
-    |-- main.dart
-    └── ...
-```
 
 <br/>
 <br/>
 
-# MVVM Model
+

@@ -6,7 +6,7 @@ sidebar_position: 2
 
 <br/>
 
-![react](https://legacy.reactjs.org/logo-og.png)
+![react](https://assets-global.website-files.com/63c6a35ee97bea3e121bf3f4/65ba74cf672937f3e95b4a67_65647732a03a5df1d2e45b2c_supabase.webp)
 
 # React
 
