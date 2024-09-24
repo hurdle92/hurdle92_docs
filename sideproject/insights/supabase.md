@@ -6,44 +6,32 @@ sidebar_position: 2
 
 <br/>
 
-![react](https://assets-global.website-files.com/63c6a35ee97bea3e121bf3f4/65ba74cf672937f3e95b4a67_65647732a03a5df1d2e45b2c_supabase.webp)
-
-# React
-
-React는 Facebook(현재 Meta)에서 만든 Javascript 사용자인터페이스(UI) 라이브러리입니다.
-한 때 React, Vue.js, Angular 3대장인 시절이 있었지만 최근에는 React가 대세인 추세입니다.
-2012년 Webpack, 2013년 React가 등장하며 프론트엔드 생태계가 빠르게 변화하였습니다.
+![supabase](https://cdn-images-1.medium.com/max/1600/1*_5tHd45wRjtvRjmbGw8arQ.jpeg)
 
 <br/>
 
-![img](/img/graph.png)
+# Supabase
 
 <br/>
 
-React의 장점은 다음과 같습니다.
 
-## **React의 장점**
+**Supabase**는 Firebase를 대체하는 BaaS입니다. PostgreSQL을 기반으로 만들어 졌으며 Real Time Data, Storage, Auth 등 앱개발에 편리한 기능들을 제공하고 있습니다.
 
-- 컴포넌트 기반 UI로 개발 생산성이 높음.
-- Virtual Dom을 사용해 개발자가 일일이 DOM 조작을 할 필요가 없음.
-- 개발 커뮤니티, 리소스, 생태계 풀이 넓음.
-
-```jsx title="src/app.js"
-import React from "react";
-import Layout from "@theme/Layout";
-
-export default function App() {
-  return (
-    <Layout>
-      <h1>My React App</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
+저는 백엔드 API 없이 클라이언트에 집중하기 위해 Supabase를 도입하였고, 지금까지 느낀 장점들은 다음과 같습니다.
 
 <br/>
 
-아래 글에서 React에 대해 잘 설명해주고 있습니다.
+- Flutter, React, Vue, Python 등 다양한 플랫폼에서 SDK를 제공
+- 사용자 친화적인 API, 적은 양의 코드로 테이블 CRUD가 가능
+- 깔끔한 대시보드, 초반에는 어드민 페이지가 필요 없을 정도
+- Free Tier로 넉넉하게 API 사용 가능
 
-[React란? 프론트엔드 개발에서 React가 대세인 이유](https://nbcamp.spartacodingclub.kr/blog/react%EB%9E%80-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%97%90%EC%84%9C-react%EA%B0%80-%EB%8C%80%EC%84%B8%EC%9D%B8-%EC%9D%B4%EC%9C%A0-2294)
+<br/>
+<br/>
+
+무료 플랜에서 무려 무제한의 API Request를 제공하고 있습니다. 초기 프로덕트 단계에서 좋은 선택지라 생각합니다.
+
+<br/>
+<br/>
+
+<img src="/img/sideproject/insights/supabase_price.png" width="360px"/>
