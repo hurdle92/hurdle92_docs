@@ -6,7 +6,7 @@ sidebar_position: 3
 
 <br/>
 
-![react](https://legacy.reactjs.org/logo-og.png)
+![mvvm](https://miro.medium.com/v2/resize:fit:1400/1*JWU0EHf4yRF2_bM_Hk07zQ.jpeg)
 
 # React
 

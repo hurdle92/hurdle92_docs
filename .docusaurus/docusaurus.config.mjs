@@ -7,7 +7,7 @@ export default {
   "title": "Sihyung.log",
   "favicon": "img/favicon.ico",
   "onBrokenLinks": "ignore",
-  "url": "https://your-docusaurus-site.example.com",
+  "url": "https://hurlde92-docs.vercel.app",
   "baseUrl": "/",
   "organizationName": "facebook",
   "projectName": "docusaurus",
@@ -45,6 +45,12 @@ export default {
     ]
   ],
   "themeConfig": {
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Sihyung의 블로그 입니다."
+      }
+    ],
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
       "logo": {
@@ -297,7 +303,6 @@ export default {
         "groupByYear": true
       }
     },
-    "metadata": [],
     "tableOfContents": {
       "minHeadingLevel": 2,
       "maxHeadingLevel": 3

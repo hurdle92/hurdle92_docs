@@ -5,10 +5,12 @@ import tailwindPlugin from "./plugins/tailwind-config.cjs";
 
 const config: Config = {
   title: "Sihyung.log",
+  
+
   favicon: "img/favicon.ico",
   onBrokenLinks:"ignore",
   // Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
+  url: "https://hurlde92-docs.vercel.app/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -23,6 +25,8 @@ const config: Config = {
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
+
+  
   i18n: {
     defaultLocale: "en",
     locales: ["en"],
@@ -54,6 +58,9 @@ const config: Config = {
     ],
   ],
   themeConfig: {
+    metadata: [
+      {name: 'description', content: 'Sihyung의 블로그 입니다.'},
+    ],
     image: "img/docusaurus-social-card.jpg",
     navbar: {
       logo: {

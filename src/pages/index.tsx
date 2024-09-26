@@ -41,7 +41,7 @@ const Home = (): JSX.Element => {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      description={"Sihyung의 블로그 입니다."}
     >
       <HomePageHeader />
       <main>
