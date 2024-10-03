@@ -49,66 +49,58 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/about-9e5": {
+  "/about-fae": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---about-041-8c8"
     }
   },
-  "/about-fc8": {
+  "/about-a99": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---about-825-789"
   },
-  "/about-401": {
+  "/about-735": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/about/category/포트폴리오-cc0": {
+  "/about/category/포트폴리오-경력기술-63d": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---about-category-포트폴리오-18-c-1f7"
+    "__props": "__props---about-category-포트폴리오-경력기술-04-c-8b1"
   },
-  "/about/category/포트폴리오-1-16e": {
+  "/about/category/포트폴리오-경력기술-1-d0b": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---about-category-포트폴리오-11-e-7-a17"
-  },
-  "/about/Deploy-b4f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-deploy-565-eaa"
+    "__props": "__props---about-category-포트폴리오-경력기술-1464-7d9"
   },
   "/about/design_system-ddc": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-design-system-8-e-0-629"
   },
-  "/about/folder_structure-fc9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-folder-structure-258-20e"
-  },
   "/about/Introduction-7bc": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---about-introduction-9-f-5-1f1"
   },
-  "/about/tech_stacks/Nextjs-d42": {
+  "/about/portfolio/adot_on-3da": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-tech-stacks-nextjs-45-f-af6"
+    "content": "content---about-portfolio-adot-on-858-375"
   },
-  "/about/tech_stacks/React-5fd": {
+  "/about/portfolio/ai_prototype-138": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-tech-stacks-react-962-265"
+    "content": "content---about-portfolio-ai-prototype-392-49e"
   },
-  "/about/tech_stacks/react_hook_form-a67": {
+  "/about/portfolio/react_hook_form-803": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-tech-stacks-react-hook-form-7-a-6-1d2"
+    "content": "content---about-portfolio-react-hook-form-1-bf-1ab"
   },
-  "/about/tech_stacks/react_query-fe8": {
+  "/about/portfolio/react_query-1ef": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-tech-stacks-react-query-690-17c"
+    "content": "content---about-portfolio-react-query-5-cc-900"
   },
-  "/about/tech_stacks/Turborepo-8c0": {
+  "/about/portfolio/Turborepo-479": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-tech-stacks-turborepoe-20-fd5"
+    "content": "content---about-portfolio-turborepo-4-df-fbc"
   },
-  "/about/tech_stacks/zustand-830": {
+  "/about/portfolio/zustand-e07": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---about-tech-stacks-zustandde-3-43a"
+    "content": "content---about-portfolio-zustandf-4-b-461"
   },
   "/docs-e8e": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",

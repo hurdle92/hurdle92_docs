@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
-# React
+# 생성형 AI 프로토타입 (디쉐어)
 
 <br/>
 

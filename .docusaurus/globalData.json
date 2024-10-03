@@ -40,18 +40,8 @@
           "mainDocId": "Introduction",
           "docs": [
             {
-              "id": "Deploy",
-              "path": "/about/Deploy",
-              "sidebar": "sideprojectSidebar"
-            },
-            {
               "id": "design_system",
               "path": "/about/design_system",
-              "sidebar": "sideprojectSidebar"
-            },
-            {
-              "id": "folder_structure",
-              "path": "/about/folder_structure",
               "sidebar": "sideprojectSidebar"
             },
             {
@@ -60,43 +50,43 @@
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "tech_stacks/Nextjs",
-              "path": "/about/tech_stacks/Nextjs",
+              "id": "portfolio/adot_on",
+              "path": "/about/portfolio/adot_on",
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "tech_stacks/React",
-              "path": "/about/tech_stacks/React",
+              "id": "portfolio/ai_prototype",
+              "path": "/about/portfolio/ai_prototype",
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "tech_stacks/react_hook_form",
-              "path": "/about/tech_stacks/react_hook_form",
+              "id": "portfolio/react_hook_form",
+              "path": "/about/portfolio/react_hook_form",
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "tech_stacks/react_query",
-              "path": "/about/tech_stacks/react_query",
+              "id": "portfolio/react_query",
+              "path": "/about/portfolio/react_query",
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "tech_stacks/Turborepo",
-              "path": "/about/tech_stacks/Turborepo",
+              "id": "portfolio/Turborepo",
+              "path": "/about/portfolio/Turborepo",
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "tech_stacks/zustand",
-              "path": "/about/tech_stacks/zustand",
+              "id": "portfolio/zustand",
+              "path": "/about/portfolio/zustand",
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "/category/포트폴리오",
-              "path": "/about/category/포트폴리오",
+              "id": "/category/포트폴리오-경력기술",
+              "path": "/about/category/포트폴리오-경력기술",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/포트폴리오-1",
-              "path": "/about/category/포트폴리오-1",
+              "id": "/category/포트폴리오-경력기술-1",
+              "path": "/about/category/포트폴리오-경력기술-1",
               "sidebar": "sideprojectSidebar"
             }
           ],

@@ -110,9 +110,11 @@ import styles from './styles.module.css';
 
 - **Flutter**를 활용해 크로스 플랫폼 앱 개발을 할 수 있습니다.
   - iOS, AOS 스토어에 배포, 운영한 경험이 있습니다.
-  - MVVM 도입, 폴더 구조 및 아키텍쳐에 관심이 많습니다.
+  - Riverpod을 이용해 상태관리를 하였습니다.
+  - MVVM를 도입한 경험이 있고 폴더 구조 및 아키텍쳐에 관심이 많습니다.
   - Sentry를 통해 프로덕션 레벨에서 에러로그를 수집하고 있습니다.
   - Google Map을 활용해 클러스터 및 지도 관련 개발을 진행하였습니다.
+  - Supabase, Firebase를 연동해 개발한 경험이 있습니다.
 
 </TabItem>
 </Tabs>
@@ -153,7 +155,7 @@ import styles from './styles.module.css';
 <details>
   <summary><strong>머신러닝을 활용한 서울대 산학협력단 솔루션 개발</strong></summary>
 - **서울대 산학협력단 솔루션 개발 (2019.02)**
-- 드론을 통해 촬영된 교량의 사진들을 Tensorflow를 활용해 균열을 예측하는 외주업무를 진행했습니다 (균열분석, 누수분석, 백태분석)
+- 정신의학과 환자 수술 시 사용되는 MIDI 음악에 저작권 문제가 발생. 이에 텐서플로우, AI Jukebox를 이용하여 비슷한 음악을 학습/생산하는 외주업무 진행했습니다.
 
 </details>
 

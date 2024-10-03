@@ -44,31 +44,25 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', '9e5'),
+    component: ComponentCreator('/about', 'fae'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', 'fc8'),
+        component: ComponentCreator('/about', 'a99'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '401'),
+            component: ComponentCreator('/about', '735'),
             routes: [
               {
-                path: '/about/category/포트폴리오',
-                component: ComponentCreator('/about/category/포트폴리오', 'cc0'),
+                path: '/about/category/포트폴리오-경력기술',
+                component: ComponentCreator('/about/category/포트폴리오-경력기술', '63d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/about/category/포트폴리오-1',
-                component: ComponentCreator('/about/category/포트폴리오-1', '16e'),
-                exact: true,
-                sidebar: "sideprojectSidebar"
-              },
-              {
-                path: '/about/Deploy',
-                component: ComponentCreator('/about/Deploy', 'b4f'),
+                path: '/about/category/포트폴리오-경력기술-1',
+                component: ComponentCreator('/about/category/포트폴리오-경력기술-1', 'd0b'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },
@@ -79,50 +73,44 @@ export default [
                 sidebar: "sideprojectSidebar"
               },
               {
-                path: '/about/folder_structure',
-                component: ComponentCreator('/about/folder_structure', 'fc9'),
-                exact: true,
-                sidebar: "sideprojectSidebar"
-              },
-              {
                 path: '/about/Introduction',
                 component: ComponentCreator('/about/Introduction', '7bc'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },
               {
-                path: '/about/tech_stacks/Nextjs',
-                component: ComponentCreator('/about/tech_stacks/Nextjs', 'd42'),
+                path: '/about/portfolio/adot_on',
+                component: ComponentCreator('/about/portfolio/adot_on', '3da'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },
               {
-                path: '/about/tech_stacks/React',
-                component: ComponentCreator('/about/tech_stacks/React', '5fd'),
+                path: '/about/portfolio/ai_prototype',
+                component: ComponentCreator('/about/portfolio/ai_prototype', '138'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },
               {
-                path: '/about/tech_stacks/react_hook_form',
-                component: ComponentCreator('/about/tech_stacks/react_hook_form', 'a67'),
+                path: '/about/portfolio/react_hook_form',
+                component: ComponentCreator('/about/portfolio/react_hook_form', '803'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },
               {
-                path: '/about/tech_stacks/react_query',
-                component: ComponentCreator('/about/tech_stacks/react_query', 'fe8'),
+                path: '/about/portfolio/react_query',
+                component: ComponentCreator('/about/portfolio/react_query', '1ef'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },
               {
-                path: '/about/tech_stacks/Turborepo',
-                component: ComponentCreator('/about/tech_stacks/Turborepo', '8c0'),
+                path: '/about/portfolio/Turborepo',
+                component: ComponentCreator('/about/portfolio/Turborepo', '479'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },
               {
-                path: '/about/tech_stacks/zustand',
-                component: ComponentCreator('/about/tech_stacks/zustand', '830'),
+                path: '/about/portfolio/zustand',
+                component: ComponentCreator('/about/portfolio/zustand', 'e07'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               }
