@@ -4,15 +4,12 @@ sidebar_position: 2
 
 # 주요기능
 
-
 ![img](/img/sideproject/introduction/tiebreak_cover.png)
 
 <br/>
 <br/>
 
-
 # 주요 기능
-
 
 <details>
   <summary><strong>다이어리 캘린더</strong></summary>
@@ -24,7 +21,6 @@ sidebar_position: 2
 <img src="/img/sideproject/features/calendar.jpg" width="320px"/>
 
 </details>
-
 
 <details>
   <summary><strong>다이어리 작성</strong></summary>
@@ -42,21 +38,20 @@ sidebar_position: 2
 <br/>
 <br/>
 
-
 <img src="/img/sideproject/features/create_1.png" width="320px"/>
 
 <br/>
 <br/>
 
 <img src="/img/sideproject/features/create_2.png" width="320px"/>
-
 <br/>
+**(테니스 코트 연동)**
+
 <br/>
 
 <img src="/img/sideproject/features/create_3.png" width="320px"/>
 
 </details>
-
 
 <details>
   <summary><strong>다이어리 공유</strong></summary>
@@ -89,7 +84,6 @@ sidebar_position: 2
 
 <br/>
 
-
 <img src="/img/sideproject/features/chart_1.png" width="320px"/>
 <br/>
 <br/>
@@ -103,9 +97,7 @@ sidebar_position: 2
 <br/>
 <br/>
 
-
 </details>
-
 
 <details>
   <summary><strong>전국 테니스장 정보</strong></summary>
@@ -115,7 +107,6 @@ sidebar_position: 2
 - 코트명 및 지역 이름으로 검색 가능.
 - 지도상에서 현 위치 주변에 있는 코트 가능.
 - 코트 상세 정보, 편의시설 및 길찾기를 제공하고 있습니다.
-
 
 <img src="/img/sideproject/features/court_1.png" width="320px"/>
 <br/>
@@ -133,9 +124,7 @@ sidebar_position: 2
 <br/>
 <br/>
 
-
 </details>
-
 
 <details>
   <summary><strong>커뮤니티</strong></summary>
@@ -155,7 +144,6 @@ sidebar_position: 2
 
 </details>
 
-
 <details>
   <summary><strong>간편 SNS 가입 및 로그인</strong></summary>
 
@@ -171,10 +159,7 @@ sidebar_position: 2
 <br/>
 <br/>
 
-
-
 </details>
-
 
 <details>
   <summary><strong>홈 탭</strong></summary>
@@ -190,7 +175,5 @@ sidebar_position: 2
 <img src="/img/sideproject/features/home.png" width="320px"/>
 <br/>
 <br/>
-
-
 
 </details>

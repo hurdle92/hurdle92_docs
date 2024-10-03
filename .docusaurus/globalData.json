@@ -150,6 +150,11 @@
               "sidebar": "sideprojectSidebar"
             },
             {
+              "id": "insights/sentry",
+              "path": "/sideproject/insights/sentry",
+              "sidebar": "sideprojectSidebar"
+            },
+            {
               "id": "insights/supabase",
               "path": "/sideproject/insights/supabase",
               "sidebar": "sideprojectSidebar"
