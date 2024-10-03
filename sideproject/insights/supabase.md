@@ -14,10 +14,8 @@ sidebar_position: 2
 
 <br/>
 
-
 **Supabase**는 Firebase를 대체하는 BaaS입니다. PostgreSQL을 기반으로 만들어 졌으며 Real Time Data, Storage, Auth 등 앱개발에 편리한 기능들을 제공하고 있습니다.
-
-저는 백엔드 API 없이 클라이언트에 집중하기 위해 Supabase를 도입하였고, 지금까지 느낀 장점들은 다음과 같습니다.
+클라이언트 개발에 집중하기 위해 백엔드 API를 대체할 수 있는 Supabase를 도입하였고, 지금까지 느낀 장점들은 다음과 같습니다.
 
 <br/>
 
@@ -29,7 +27,11 @@ sidebar_position: 2
 <br/>
 <br/>
 
-무료 플랜에서 무려 무제한의 API Request를 제공하고 있습니다. 초기 프로덕트 혹은 백엔드 개발자가 없는 상황에서 좋은 선택지라 생각합니다.
+## Free Plan
+
+<br/>
+
+무료 플랜에서 무제한의 API Request를 제공하고 있습니다. 초기 프로덕트 혹은 백엔드 개발자가 없는 상황에서 좋은 선택지라 생각합니다.
 
 <br/>
 <br/>
