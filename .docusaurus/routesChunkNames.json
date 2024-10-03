@@ -127,17 +127,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-deploy-703-d49"
   },
-  "/sideproject-7fd": {
+  "/sideproject-6a5": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---sideproject-620-6fb"
     }
   },
-  "/sideproject-f75": {
+  "/sideproject-254": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---sideproject-76-f-e12"
   },
-  "/sideproject-536": {
+  "/sideproject-8cb": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/sideproject/category/개발하며-고민한-부분-609": {
@@ -147,14 +147,6 @@
   "/sideproject/category/개발하며-고민한-부분-1-3c8": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---sideproject-category-개발하며-고민한-부분-1016-783"
-  },
-  "/sideproject/category/업데이트-내역-de7": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---sideproject-category-업데이트-내역-0-a-5-f4a"
-  },
-  "/sideproject/category/업데이트-내역-1-ed6": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---sideproject-category-업데이트-내역-139-e-024"
   },
   "/sideproject/features-172": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -191,30 +183,6 @@
   "/sideproject/tech_stacks-225": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---sideproject-tech-stacksd-58-a43"
-  },
-  "/sideproject/updates_list/Nextjs-de4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---sideproject-updates-list-nextjsd-25-dd3"
-  },
-  "/sideproject/updates_list/React-55d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---sideproject-updates-list-react-5-cd-d47"
-  },
-  "/sideproject/updates_list/react_hook_form-8c9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---sideproject-updates-list-react-hook-formd-9-d-c5d"
-  },
-  "/sideproject/updates_list/react_query-c54": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---sideproject-updates-list-react-query-6-e-0-94f"
-  },
-  "/sideproject/updates_list/Turborepo-95f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---sideproject-updates-list-turborepoa-34-dd3"
-  },
-  "/sideproject/updates_list/zustand-78e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---sideproject-updates-list-zustand-424-6c1"
   },
   "/-e5f": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",

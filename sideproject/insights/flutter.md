@@ -6,7 +6,7 @@ sidebar_position: 1
 
 <br/>
 
-![flutter](https://cdn.prod.website-files.com/5f841209f4e71b2d70034471/60bb4a2e143f632da3e56aea_Flutter%20app%20development%20(2).png)
+![flutter](https://www.daily.co/blog/content/images/2023/07/Flutter-feature.png)
 
 <br/>
 
@@ -34,6 +34,3 @@ Dart라는 새로운 언어를 배워야하는 진입장벽에도, 제가 Flutte
 <br/>
 
 ![img](/img/sideproject/insights/google_trend.png)
-
-
-

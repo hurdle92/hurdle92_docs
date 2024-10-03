@@ -158,15 +158,15 @@ export default [
   },
   {
     path: '/sideproject',
-    component: ComponentCreator('/sideproject', '7fd'),
+    component: ComponentCreator('/sideproject', '6a5'),
     routes: [
       {
         path: '/sideproject',
-        component: ComponentCreator('/sideproject', 'f75'),
+        component: ComponentCreator('/sideproject', '254'),
         routes: [
           {
             path: '/sideproject',
-            component: ComponentCreator('/sideproject', '536'),
+            component: ComponentCreator('/sideproject', '8cb'),
             routes: [
               {
                 path: '/sideproject/category/개발하며-고민한-부분',
@@ -177,18 +177,6 @@ export default [
               {
                 path: '/sideproject/category/개발하며-고민한-부분-1',
                 component: ComponentCreator('/sideproject/category/개발하며-고민한-부분-1', '3c8'),
-                exact: true,
-                sidebar: "sideprojectSidebar"
-              },
-              {
-                path: '/sideproject/category/업데이트-내역',
-                component: ComponentCreator('/sideproject/category/업데이트-내역', 'de7'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/sideproject/category/업데이트-내역-1',
-                component: ComponentCreator('/sideproject/category/업데이트-내역-1', 'ed6'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },
@@ -243,42 +231,6 @@ export default [
               {
                 path: '/sideproject/tech_stacks',
                 component: ComponentCreator('/sideproject/tech_stacks', '225'),
-                exact: true,
-                sidebar: "sideprojectSidebar"
-              },
-              {
-                path: '/sideproject/updates_list/Nextjs',
-                component: ComponentCreator('/sideproject/updates_list/Nextjs', 'de4'),
-                exact: true,
-                sidebar: "sideprojectSidebar"
-              },
-              {
-                path: '/sideproject/updates_list/React',
-                component: ComponentCreator('/sideproject/updates_list/React', '55d'),
-                exact: true,
-                sidebar: "sideprojectSidebar"
-              },
-              {
-                path: '/sideproject/updates_list/react_hook_form',
-                component: ComponentCreator('/sideproject/updates_list/react_hook_form', '8c9'),
-                exact: true,
-                sidebar: "sideprojectSidebar"
-              },
-              {
-                path: '/sideproject/updates_list/react_query',
-                component: ComponentCreator('/sideproject/updates_list/react_query', 'c54'),
-                exact: true,
-                sidebar: "sideprojectSidebar"
-              },
-              {
-                path: '/sideproject/updates_list/Turborepo',
-                component: ComponentCreator('/sideproject/updates_list/Turborepo', '95f'),
-                exact: true,
-                sidebar: "sideprojectSidebar"
-              },
-              {
-                path: '/sideproject/updates_list/zustand',
-                component: ComponentCreator('/sideproject/updates_list/zustand', '78e'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               }
