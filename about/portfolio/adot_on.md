@@ -30,7 +30,7 @@ sidebar_position: 1
 
 ## 주요 기술 스택
 
-React, Next.js, React-Query, Turborepo, Zustand, Styled-Components, Storybook
+React, Next.js, React-Query, Turborepo, Zustand, Styled-Components, React-Hook-Form, Yup, Storybook
 
 <br/>
 

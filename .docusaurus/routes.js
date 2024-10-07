@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/about',
-    component: ComponentCreator('/about', 'fae'),
+    component: ComponentCreator('/about', '9ba'),
     routes: [
       {
         path: '/about',
-        component: ComponentCreator('/about', 'a99'),
+        component: ComponentCreator('/about', '952'),
         routes: [
           {
             path: '/about',
-            component: ComponentCreator('/about', '735'),
+            component: ComponentCreator('/about', '623'),
             routes: [
               {
                 path: '/about/category/포트폴리오-경력기술',
@@ -67,14 +67,20 @@ export default [
                 sidebar: "sideprojectSidebar"
               },
               {
-                path: '/about/design_system',
-                component: ComponentCreator('/about/design_system', 'ddc'),
+                path: '/about/Introduction',
+                component: ComponentCreator('/about/Introduction', '7bc'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },
               {
-                path: '/about/Introduction',
-                component: ComponentCreator('/about/Introduction', '7bc'),
+                path: '/about/portfolio/admin_company',
+                component: ComponentCreator('/about/portfolio/admin_company', '106'),
+                exact: true,
+                sidebar: "sideprojectSidebar"
+              },
+              {
+                path: '/about/portfolio/admin_plus',
+                component: ComponentCreator('/about/portfolio/admin_plus', 'fab'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },
@@ -91,26 +97,26 @@ export default [
                 sidebar: "sideprojectSidebar"
               },
               {
-                path: '/about/portfolio/react_hook_form',
-                component: ComponentCreator('/about/portfolio/react_hook_form', '803'),
+                path: '/about/portfolio/apost',
+                component: ComponentCreator('/about/portfolio/apost', 'ade'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },
               {
-                path: '/about/portfolio/react_query',
-                component: ComponentCreator('/about/portfolio/react_query', '1ef'),
+                path: '/about/portfolio/app_v1',
+                component: ComponentCreator('/about/portfolio/app_v1', 'd31'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },
               {
-                path: '/about/portfolio/Turborepo',
-                component: ComponentCreator('/about/portfolio/Turborepo', '479'),
+                path: '/about/portfolio/blendin',
+                component: ComponentCreator('/about/portfolio/blendin', '53a'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },
               {
-                path: '/about/portfolio/zustand',
-                component: ComponentCreator('/about/portfolio/zustand', 'e07'),
+                path: '/about/portfolio/reboot',
+                component: ComponentCreator('/about/portfolio/reboot', '502'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               }

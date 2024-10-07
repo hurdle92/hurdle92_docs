@@ -40,13 +40,18 @@
           "mainDocId": "Introduction",
           "docs": [
             {
-              "id": "design_system",
-              "path": "/about/design_system",
+              "id": "Introduction",
+              "path": "/about/Introduction",
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "Introduction",
-              "path": "/about/Introduction",
+              "id": "portfolio/admin_company",
+              "path": "/about/portfolio/admin_company",
+              "sidebar": "sideprojectSidebar"
+            },
+            {
+              "id": "portfolio/admin_plus",
+              "path": "/about/portfolio/admin_plus",
               "sidebar": "sideprojectSidebar"
             },
             {
@@ -60,23 +65,23 @@
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "portfolio/react_hook_form",
-              "path": "/about/portfolio/react_hook_form",
+              "id": "portfolio/apost",
+              "path": "/about/portfolio/apost",
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "portfolio/react_query",
-              "path": "/about/portfolio/react_query",
+              "id": "portfolio/app_v1",
+              "path": "/about/portfolio/app_v1",
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "portfolio/Turborepo",
-              "path": "/about/portfolio/Turborepo",
+              "id": "portfolio/blendin",
+              "path": "/about/portfolio/blendin",
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "portfolio/zustand",
-              "path": "/about/portfolio/zustand",
+              "id": "portfolio/reboot",
+              "path": "/about/portfolio/reboot",
               "sidebar": "sideprojectSidebar"
             },
             {
