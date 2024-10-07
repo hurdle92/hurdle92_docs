@@ -117,7 +117,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/sideproject",
-          "mainDocId": "Introduction",
+          "mainDocId": "introduction",
           "docs": [
             {
               "id": "features",
@@ -135,8 +135,8 @@
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "insights/MVVM",
-              "path": "/sideproject/insights/MVVM",
+              "id": "insights/mvvm",
+              "path": "/sideproject/insights/mvvm",
               "sidebar": "sideprojectSidebar"
             },
             {
@@ -155,8 +155,8 @@
               "sidebar": "sideprojectSidebar"
             },
             {
-              "id": "Introduction",
-              "path": "/sideproject/Introduction",
+              "id": "introduction",
+              "path": "/sideproject/introduction",
               "sidebar": "sideprojectSidebar"
             },
             {
@@ -179,14 +179,14 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/sideproject/Introduction",
-                "label": "Introduction"
+                "path": "/sideproject/introduction",
+                "label": "introduction"
               }
             },
             "sideprojectSidebar": {
               "link": {
-                "path": "/sideproject/Introduction",
-                "label": "Introduction"
+                "path": "/sideproject/introduction",
+                "label": "introduction"
               }
             }
           }

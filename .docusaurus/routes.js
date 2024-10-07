@@ -146,15 +146,15 @@ export default [
   },
   {
     path: '/sideproject',
-    component: ComponentCreator('/sideproject', 'a22'),
+    component: ComponentCreator('/sideproject', '6a5'),
     routes: [
       {
         path: '/sideproject',
-        component: ComponentCreator('/sideproject', 'bd6'),
+        component: ComponentCreator('/sideproject', '254'),
         routes: [
           {
             path: '/sideproject',
-            component: ComponentCreator('/sideproject', '57d'),
+            component: ComponentCreator('/sideproject', '8cb'),
             routes: [
               {
                 path: '/sideproject/category/개발하며-고민한-부분',
@@ -187,8 +187,8 @@ export default [
                 sidebar: "sideprojectSidebar"
               },
               {
-                path: '/sideproject/insights/MVVM',
-                component: ComponentCreator('/sideproject/insights/MVVM', '458'),
+                path: '/sideproject/insights/mvvm',
+                component: ComponentCreator('/sideproject/insights/mvvm', 'a22'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },
@@ -211,8 +211,8 @@ export default [
                 sidebar: "sideprojectSidebar"
               },
               {
-                path: '/sideproject/Introduction',
-                component: ComponentCreator('/sideproject/Introduction', 'a5c'),
+                path: '/sideproject/introduction',
+                component: ComponentCreator('/sideproject/introduction', '340'),
                 exact: true,
                 sidebar: "sideprojectSidebar"
               },
