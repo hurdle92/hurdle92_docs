@@ -5,7 +5,7 @@
  */
 export default {
   "title": "Sihyung.log",
-  "favicon": "img/favicon.ico",
+  "favicon": "favicon.ico",
   "onBrokenLinks": "ignore",
   "url": "https://hurlde92-docs.vercel.app",
   "baseUrl": "/",
@@ -55,7 +55,7 @@ export default {
     "navbar": {
       "logo": {
         "alt": "logo",
-        "src": "img/favicon.ico"
+        "src": "icons/pencil.png"
       },
       "title": "Sihyung.log",
       "items": [

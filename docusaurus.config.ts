@@ -5,10 +5,9 @@ import tailwindPlugin from "./plugins/tailwind-config.cjs";
 
 const config: Config = {
   title: "Sihyung.log",
-  
 
-  favicon: "img/favicon.ico",
-  onBrokenLinks:"ignore",
+  favicon: "favicon.ico",
+  onBrokenLinks: "ignore",
   // Set the production url of your site here
   url: "https://hurlde92-docs.vercel.app/",
   // Set the /<baseUrl>/ pathname under which your site is served
@@ -26,7 +25,6 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
 
-  
   i18n: {
     defaultLocale: "en",
     locales: ["en"],
@@ -58,19 +56,21 @@ const config: Config = {
     ],
   ],
   themeConfig: {
-    metadata: [
-      {name: 'description', content: 'Sihyung의 블로그 입니다.'},
-    ],
+    metadata: [{ name: "description", content: "Sihyung의 블로그 입니다." }],
     image: "img/docusaurus-social-card.jpg",
     navbar: {
       logo: {
         alt: "logo",
-        src: "img/favicon.ico",
+        src: "icons/pencil.png",
       },
       title: "Sihyung.log",
       items: [
         { to: "/about/introduction", label: "About", position: "left" },
-        { to: "/sideproject/introduction", label: "SideProject", position: "left" },
+        {
+          to: "/sideproject/introduction",
+          label: "SideProject",
+          position: "left",
+        },
         {
           href: "https://github.com/hurdle92",
           label: "GitHub",
