@@ -17,18 +17,39 @@ sidebar_position: 4
 
 <br/>
 
-- 6~7페이지 정도로 많지 않은 분량
-- 빠른 프로토타입 개발과 인수인계 후 용이한 유지보수를 위해 `tailwind` 스타일링 적용
-- 비싼 API 가격으로 인해 개발 단계에서는 `MSW` 모킹 API로 엄격하게 테스트
+- 입점 병원용 백오피스 **(여신플러스)** 개발
+- 예약 관리, 후기 관리, 정산, 광고 관리, 매출 등 다양한 페이지 개발 및 유지보수
+- CPM 관련 포인트 결제 기능 추가
+- 간단한 차트 기능 추가
+
+<br/>
+
+## 미리보기
+
+<details>
+  <summary><strong style={{color : "blue"}}>여신플러스</strong></summary>
+
+**(공식 가이드북)**
+
+<br/>
+<img src="/img/about/portfolio/yeoshin/plus_1.webp"/>
+<br/>
+<br/>
+<img src="/img/about/portfolio/yeoshin/plus_2.webp"/>
+<br/>
+<br/>
+<img src="/img/about/portfolio/yeoshin/plus_3.webp"/>
+
+</details>
 
 <br/>
 
 ## 주요 기술 스택
 
-React, Next.js, React-Query, Tailwind, Zustand, MSW
+React, Next.js, React-Query, Tailwind, Zustand
 
 <br/>
-
+<!-- 
 ## 개발하며 고민한 부분
 
 <br/>
@@ -43,4 +64,4 @@ Chat GPT 토큰을 활용해 API를 사용하는 프로젝트이다 보니, 한 
 또한, 유저들이 API 호출 시 페이지 이탈 방지와 로딩 Spinner등을 적절히 활용하였습니다.
 
 <br/>
-<br/>
+<br/> -->
