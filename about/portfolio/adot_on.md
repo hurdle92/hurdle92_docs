@@ -49,5 +49,3 @@ React, Next.js, React-Query, Turborepo, Zustand, Styled-Components, React-Hook-F
 현재는 `adot-ui` 디자인 시스템 또한 함께 관리하고 있습니다.
 
 <br/>
-
-### 에이닷 디자인 시스템
