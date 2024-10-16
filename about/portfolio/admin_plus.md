@@ -45,7 +45,7 @@ sidebar_position: 4
 
 ## 주요 기술 스택
 
-React, Next.js, React-Query, Tailwind, Zustand, React-Hook-Form, Yup
+React, Next.js, React-Query, Zustand, Formik, Yup, Tailwind
 
 <br/>
 <br/> -->

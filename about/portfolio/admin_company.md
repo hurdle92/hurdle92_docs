@@ -12,15 +12,15 @@ sidebar_position: 5
 
 <br/>
 
-- 6~7페이지 정도로 많지 않은 분량
-- 빠른 프로토타입 개발과 인수인계 후 용이한 유지보수를 위해 `tailwind` 스타일링 적용
-- 비싼 API 가격으로 인해 개발 단계에서는 `MSW` 모킹 API로 엄격하게 테스트
+- 기존의 레거시 백오피스를 React 기반으로 인하우스 재구축
+- 약 30~40개 정도의 페이지 유지보수 및 신규 페이지 추가
+- `Formik` + `Yup`의 조합으로 정보 등록 시 수십 개의 Form 용이하게 관리
 
 <br/>
 
 ## 주요 기술 스택
 
-React, Next.js, React-Query, Tailwind, Zustand, MSW
+React, Next.js, React-Query, Zustand, Formik, Yup, Tailwind
 
 <br/>
 
