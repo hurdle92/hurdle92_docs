@@ -10,7 +10,7 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: "개발을 즐깁니다",
+    title: "개발을 즐기는 개발자",
     imgSrc: "/img/home/illustration_1.svg",
 
     description: (
@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: "Focus on What Matters",
+    title: "커뮤니케이션",
     imgSrc: "/img/home/illustration_2.svg",
     description: (
       <>
@@ -31,7 +31,7 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: "Powered by React",
+    title: "문서화",
     imgSrc: "/img/home/illustration_3.svg",
     description: (
       <>
