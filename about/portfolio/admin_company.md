@@ -23,7 +23,7 @@ sidebar_position: 5
 React, Next.js, React-Query, Zustand, Formik, Yup, Tailwind
 
 <br/>
-
+<!-- 
 ## 개발하며 고민한 부분
 
 <br/>
@@ -34,4 +34,4 @@ Chat GPT 토큰을 활용해 API를 사용하는 프로젝트이다 보니, 한 
 따라서 `MSW` (Mock Service Worker)를 활용해 개발환경과 프로덕션 환경을 분리해 개발 단계에서는 모킹 API를 활용해
 프론트엔드 작업을 하였고, 프로덕션 단계에서 실제 API를 호출하여 테스트했습니다.
 
-<br/>
+<br/> -->

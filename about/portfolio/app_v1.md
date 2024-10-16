@@ -17,19 +17,20 @@ sidebar_position: 6
 
 <br/>
 
-- 6~7페이지 정도로 많지 않은 분량
-- 빠른 프로토타입 개발과 인수인계 후 용이한 유지보수를 위해 `tailwind` 스타일링 적용
-- 비싼 API 가격으로 인해 개발 단계에서는 `MSW` 모킹 API로 엄격하게 테스트
+- React + PHP의 혼합된 프로젝트 → React로 모두 통합 (CRA)
+- 이벤트 상세, 결제, 프로모션 등 웹뷰 페이지 개발
+- 여신 디자인 시스템 ([YDS](https://www.npmjs.com/package/yeoshin-design-system-beta-test)) 개발 및 Storybook 디자인 문서화
+- 네이티브 앱과 브릿지 통신
 
 <br/>
 
 ## 주요 기술 스택
 
-React, Next.js, React-Query, Tailwind, Zustand, MSW
+React, TypeScript, MobX, Emotion, Storybook
 
 <br/>
 
-## 개발하며 고민한 부분
+<!-- ## 개발하며 고민한 부분
 
 <br/>
 
@@ -43,4 +44,4 @@ Chat GPT 토큰을 활용해 API를 사용하는 프로젝트이다 보니, 한 
 또한, 유저들이 API 호출 시 페이지 이탈 방지와 로딩 Spinner등을 적절히 활용하였습니다.
 
 <br/>
-<br/>
+<br/> -->
