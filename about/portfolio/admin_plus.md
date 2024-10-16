@@ -23,7 +23,7 @@ sidebar_position: 4
 - 간단한 차트 기능 추가
 
 <br/>
-
+<!-- 
 ## 미리보기
 
 <details>
@@ -40,7 +40,7 @@ sidebar_position: 4
 <br/>
 <img src="/img/about/portfolio/yeoshin/plus_3.webp"/>
 
-</details>
+</details> -->
 
 <br/>
 
