@@ -68,7 +68,7 @@ React, Next.js, React-Query, Zustand, Formik, Yup, Tailwind
 <br/>
 
 - 선언적으로 Schema, Validation을 정의하여 필드 및 타입 변경 시 유지보수에 용이
-- 이전보다 간결해진 코드
+- 보다 간결해진 코드
 
 <br/>
 <br/>

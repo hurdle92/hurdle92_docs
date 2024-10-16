@@ -10,7 +10,7 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: "Easy to Use",
+    title: "개발을 즐깁니다",
     imgSrc: "/img/home/illustration_1.svg",
 
     description: (

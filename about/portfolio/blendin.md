@@ -27,7 +27,7 @@ AI 개발팀에서 생성형 AI를 토대로 프로덕트를 개발중인데, �
 ## 미리보기
 
 <details>
-  <summary><strong style={{color : "blue"}}>블렌드인 (Mobile)</strong></summary>
+  <summary><strong style={{color : "blue"}}>블렌드인 (Mobile 화면)</strong></summary>
 
 <br/>
 <img src="/img/about/portfolio/blendin/blendin_2.png"/>
@@ -38,13 +38,6 @@ AI 개발팀에서 생성형 AI를 토대로 프로덕트를 개발중인데, �
 <img src="/img/about/portfolio/blendin/blendin_1.png"/>
 <br/>
 <img src="/img/about/portfolio/blendin/blendin_4.png"/>
-
-- IT 개발팀, Frontend Developer
-- 주요 업무
-  - 에이닷 ON React 프로젝트 구축
-  - 생성형 AI 플랫폼 프론트엔드 프로토타입 개발
-- 주요 기술 스택
-  - React, Next.js, React-Query, Turborepo, Zustand, Styled-Components, Storybook
 
 </details>
 
