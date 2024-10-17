@@ -44,8 +44,18 @@ React, Next.js, React-Query, Zustand, Styled-Components
 
 ### Next.js 도입
 
-SEO 필요성
+기존 `CRA`기반의 여신티켓 웹뷰는 SEO에 취약했습니다.
+여신티켓 웹뷰 특성상 SNS를 통해 공유, 노출되어야 하는 상세 페이지들이 많았는데, 이를 서버사이드 렌더링으로
+SEO를 최적화 하기 위해 `Next.js`를 도입하였습니다. Next.js를 도입하여 얻은 이점은 다음과 같습니다.
 
+<br/>
+
+- SSR을 통해 플랫폼에 필요한 SEO 최적화
+- page 라우팅을 통해 폴더 단위의 개발자 분업화
+
+SEO최적화 뿐만이 아니라
+
+<br/>
 <br/>
 
 ### MobX 상태관리 -> React-Query + Zustand 조합으로 변경
