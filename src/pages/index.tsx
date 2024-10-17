@@ -1,10 +1,10 @@
-
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
 import styles from "./index.module.css";
 import { ReactTyped } from "react-typed";
+import Head from "@docusaurus/Head";
 
 const HomePageHeader = () => {
   const { siteConfig } = useDocusaurusContext();
@@ -12,10 +12,7 @@ const HomePageHeader = () => {
     <header className={"bg-blue-500 py-[10rem]"}>
       <main className={"flex flex-col items-center mx-auto"}>
         <ReactTyped
-          strings={[
-            "Sihyung.log&nbsp;",
-            "테니스 치는 개발자&nbsp;",
-          ]}
+          strings={["Sihyung.log&nbsp;", "테니스 치는 개발자&nbsp;"]}
           typeSpeed={70}
           backSpeed={80}
           backDelay={2000}
@@ -43,6 +40,12 @@ const Home = (): JSX.Element => {
       title={`${siteConfig.title}`}
       description={"Sihyung의 블로그 입니다."}
     >
+      <Head>
+        <meta
+          property="og:image"
+          content="https://plus.unsplash.com/premium_photo-1661963212517-830bbb7d76fc?q=80&w=1986&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        />
+      </Head>
       <HomePageHeader />
       <main>
         <HomepageFeatures />
