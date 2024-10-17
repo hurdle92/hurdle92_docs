@@ -14,10 +14,7 @@ const FeatureList: FeatureItem[] = [
     imgSrc: "/img/home/illustration_1.svg",
 
     description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
+      <>덕업일치를 실행중이며, 취미를 업으로 삼고 있는 개발자 입니다.</>
     ),
   },
   {
@@ -25,8 +22,8 @@ const FeatureList: FeatureItem[] = [
     imgSrc: "/img/home/illustration_2.svg",
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        프론트엔드 특성상 여러 직군들과 커뮤니케이션 및 협업할 경우가 많습니다.
+        타인에게 먼저 다가가며 원활한 의사소통을 하기 위해 노력합니다.
       </>
     ),
   },
@@ -35,8 +32,8 @@ const FeatureList: FeatureItem[] = [
     imgSrc: "/img/home/illustration_3.svg",
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        개발만큼이나 중요한게 문서화라고 생각합니다. 히스토리를 기록하고,
+        공유하려 노력합니다.
       </>
     ),
   },
