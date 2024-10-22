@@ -27,6 +27,7 @@
     "@docusaurus/module-type-aliases": "3.5.2",
     "@docusaurus/tsconfig": "3.5.2",
     "@docusaurus/types": "3.5.2",
+    "@vercel/analytics": "^1.3.1",
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.41",
     "react-typed": "^2.0.12",

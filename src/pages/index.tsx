@@ -5,6 +5,7 @@ import HomepageFeatures from "@site/src/components/HomepageFeatures";
 import styles from "./index.module.css";
 import { ReactTyped } from "react-typed";
 import Head from "@docusaurus/Head";
+import { Analytics } from "@vercel/analytics/react";
 
 const HomePageHeader = () => {
   const { siteConfig } = useDocusaurusContext();
@@ -40,6 +41,7 @@ const Home = (): JSX.Element => {
       title={`${siteConfig.title}`}
       description={"Sihyung의 블로그 입니다."}
     >
+      <Analytics />
       <Head>
         <meta
           property="og:image"
