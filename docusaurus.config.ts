@@ -9,7 +9,7 @@ const config: Config = {
   favicon: "favicon.ico",
   onBrokenLinks: "ignore",
   // Set the production url of your site here
-  url: "https://hurlde92-docs.vercel.app/",
+  url: "https://teveloper-docs.vercel.app/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -56,7 +56,14 @@ const config: Config = {
     ],
   ],
   themeConfig: {
-    metadata: [{ name: "description", content: "Sihyung의 블로그 입니다." }],
+    metadata: [
+      { name: "description", content: "Sihyung의 블로그 입니다." },
+      {
+        name: "og:image",
+        content:
+          "https://brjcooqgruubkkihztqm.supabase.co/storage/v1/object/public/images/og_image.jpg",
+      },
+    ],
     image: "img/docusaurus-social-card.jpg",
     navbar: {
       logo: {
