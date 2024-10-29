@@ -64,7 +64,8 @@ const config: Config = {
           "https://brjcooqgruubkkihztqm.supabase.co/storage/v1/object/public/images/og_image.jpg",
       },
     ],
-    image: "img/docusaurus-social-card.jpg",
+    image:
+      "https://brjcooqgruubkkihztqm.supabase.co/storage/v1/object/public/images/og_image.jpg",
     navbar: {
       logo: {
         alt: "logo",
