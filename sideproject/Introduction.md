@@ -1,8 +1,5 @@
 ---
 sidebar_position: 1
-title: 타이브레이크 사이드 프로젝트
-description: 타이브레이크 docs
-image: https://media.licdn.com/dms/image/v2/D562DAQF5078qwfL3rQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1729231751584?e=1730206800&v=beta&t=8KC6NEom93hXHEEy6fizgKa-27bdTGShoBCEwIvZCIQ
 ---
 
 # 타이브레이크
